@@ -18,7 +18,7 @@ citation:
 
 **2013**  
 **Jürgen Lembcke**, **Susann Liepe** et al.: _Grundlagen eines aktiven Ansiedlungs- und Nutzungsmanagements im Sanierungsgebiet „Historische Altstadt“_, Studie für die Stadt Neuruppin, Neuruppin 2013.  
-**Jürgen Lembcke**, **Susann Liepe** et al.: _Foundations of an Active Settlement and Usage Management in the Redevelopment Area "Historic Old Town"_, Study for the City of Neuruppin, Neuruppin 2013. (Study)
+**Jürgen Lembcke**, **Susann Liepe** et al.: _Foundations of an Active Settlement and Usage Management in the Redevelopment Area "Historic Old Town"_, Study for the City of Neuruppin, Neuruppin 2013. (Study )
 
 **2012**  
 **Jürgen Lembcke**, **Fransiska Sugi**: _Daten genauer betrachten: Auf der Suche nach Good Governance. Gutes Datenmanagement spart Kosten und Zeit für Beamte bei der Erledigung ihrer amtlichen Aufgaben_, Artikel für Deutscher Entwicklungsdienst in Indonesien, Jakarta 2012.  

@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_publications/Jürgen Mark Lembcke.md",
+                "file": "_pages/Jürgen Mark Lembcke.md",
                 "mode": "source",
                 "source": false
               },
@@ -203,8 +203,8 @@
   },
   "active": "e0af34ca0bc87b59",
   "lastOpenFiles": [
-    "_pages/about.md",
     "_publications/Jürgen Mark Lembcke.md",
+    "_pages/Jürgen Mark Lembcke.md",
     "_portfolio/portfolio-1.md",
     "Untitled.md",
     "test_note.md",
