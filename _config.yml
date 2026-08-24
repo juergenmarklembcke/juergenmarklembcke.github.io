@@ -23,10 +23,10 @@ repository               : "juergenmarklembcke/juergenmarklembcke.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "Jürgen Lembcke.jpg"
+  name             : "Jürgen Mark Lembcke"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Prozess Manager, Berater in der Entwicklungszusammenarbeit, Good Governance Spezialist, Experte der Kommunal- und Verkehrsentwicklung"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
