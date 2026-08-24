@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/Jürgen Mark Lembcke.md",
+                "file": "_pages/Juergen Mark Lembcke Bio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jürgen Mark Lembcke"
+              "title": "Juergen Mark Lembcke Bio"
             }
           }
         ],
@@ -203,8 +203,8 @@
   },
   "active": "e0af34ca0bc87b59",
   "lastOpenFiles": [
-    "_publications/Jürgen Mark Lembcke.md",
-    "_pages/Jürgen Mark Lembcke.md",
+    "_publications/Juergen Mark Lembcke.md",
+    "_pages/Juergen Mark Lembcke Bio.md",
     "_portfolio/portfolio-1.md",
     "Untitled.md",
     "test_note.md",
