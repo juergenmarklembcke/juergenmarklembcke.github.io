@@ -1,12 +1,12 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: Jürgen Mark Lembcke
 author_profile: true
-redirect_from: 
+redirect_from:
   - /md/
   - /markdown.html
 ---
-
+Prozess Manager, Berater in der Entwicklungszusammenarbeit, Good Governance Spezialist, Experte der Kommunal- und Verkehrsentwicklung
 {% include toc %}
 
 ## Locations of key files/directories
