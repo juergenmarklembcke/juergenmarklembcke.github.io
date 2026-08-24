@@ -1,12 +1,11 @@
 ---
 permalink: /
-title: Publikationen1
+title: Publikationen
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-
 **2015**  
 **Jürgen Lembcke**, **Zeno Pack**: _Ein kurzer Leitfaden, um Trägheit in kleinen und zeitlich begrenzten Projekten durch Kooperation und Mut zu überwinden. Am Beispiel von Pilotkoordinierungsstellen für Bürgerservices in Lesotho_, in: GIZ-Magazin, Eschborn 2015.  
 **Jürgen Lembcke**, **Zeno Pack**: _A Short Guide to Overcome Inertia in Small and Time-Limited Projects by Choosing Cooperation and by Being Bold. On the Example of Piloting Coordination Offices for Citizen Services in Lesotho_, in: GIZ Magazine, Eschborn 2015. (Article)
