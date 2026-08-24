@@ -7,6 +7,7 @@ gem 'jekyll-feed'
 gem 'jekyll-sitemap'
 gem 'jekyll-redirect-from'
 gem 'jemoji'
+gem 'jekyll-gist' 
 gem 'kramdown-parser-gfm'  # Often needed for GitHub-flavored markdown
 gem 'webrick', '~> 1.8'    # Required for local serving, harmless in Actions
 
