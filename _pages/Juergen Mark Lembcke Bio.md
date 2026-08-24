@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Publikationen
+title: Publikationen1
 author_profile: true
 redirect_from:
   - /about/
