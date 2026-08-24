@@ -3,8 +3,8 @@ name: Build and Deploy Jekyll Site
 on:
   push:
     branches:
-      - master  # Ensure this matches your default branch name (master or main)
-  workflow_dispatch:
+      - master  # CHANGE THIS to 'main' if your default branch is named 'main'
+  workflow_dispatch: # Allows manual triggering
 
 permissions:
   contents: read
@@ -25,8 +25,8 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1'
-          bundler-cache: true
+          ruby-version: '3.1' 
+          bundler-cache: true # Installs gems from your Gemfile automatically
           working-directory: '.'
 
       - name: Setup Pages
