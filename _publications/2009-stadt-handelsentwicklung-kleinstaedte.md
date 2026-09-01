@@ -1,0 +1,2 @@
+\***title: "Stadt- und Handelsentwicklung von Kleinstädten: Analyse, Bewertung und Instrumente" collection: publications permalink: /publication/2009-stadt-handelsentwicklung-kleinstaedte date: 2009-01-01 venue: "MIR Brandenburg, DSSW" excerpt: "Analyse, Bewertung und Instrumente für Stadt- und Handelsentwicklung." citation: "Mark, M., & Lembcke, J. (2009). Stadt- und Handelsentwicklung von Kleinstädten: Analyse, Bewertung und Instrumente. MIR Brandenburg, DSSW." ---** \***\#\#** \***Downloads** \***\[Add paperurl here when PDF is available\]**
+
