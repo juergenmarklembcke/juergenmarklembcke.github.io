@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_publications/2008-gestaltungsprinzipien-geschaeftsstrassen.md",
+                "file": "_publications/2011-kommunikationskonzept-wohnstandortinfo.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2008-gestaltungsprinzipien-geschaeftsstrassen"
+              "title": "2011-kommunikationskonzept-wohnstandortinfo"
             }
           }
         ]
@@ -188,25 +188,26 @@
   },
   "active": "e0af34ca0bc87b59",
   "lastOpenFiles": [
-    "_publications/2008-entwicklung-standortinformationssystem.md",
-    "_publications/lu8998439rt.tmp",
+    "_publications/lu8998439sd.tmp",
+    "_publications/2008-gestaltungsprinzipien-geschaeftsstrassen.md",
     "_publications/2009-stadt-handelsentwicklung-kleinstaedte.md",
-    "_publications/lu8998439rl.tmp",
     "_publications/2011-kommunikationskonzept-wohnstandortinfo.md",
+    "_publications/lu8998439sa.tmp",
+    "_publications/2008-entwicklung-standortinformationssystem.md",
+    "_publications/2008-entwicklungschancen-nutzungscluster.md",
+    "_publications/2012-01-01-looking-closer-at-data.md.md",
+    "_publications/lu8998439s7.tmp",
+    "_publications/lu8998439s4.tmp",
+    "_publications/lu8998439s1.tmp",
+    "_publications/lu8998439ry.tmp",
+    "_publications/lu8998439rv.tmp",
+    "_publications/lu8998439rt.tmp",
+    "_publications/lu8998439rl.tmp",
     "_publications/lu8998439rd.tmp",
     "_publications/lu8998439r5.tmp",
-    "_publications/2008-entwicklungschancen-nutzungscluster.md",
-    "_publications/lu8998439qx.tmp",
-    "_publications/2012-01-01-looking-closer-at-data.md.md",
-    "_publications/2008-gestaltungsprinzipien-geschaeftsstrassen.md",
     "_publications/2025-06-08-paper-title-number-5.md",
     "_publications/2024-02-17-paper-title-number-4.md",
     "_publications/2015-10-01-paper-title-number-3.md",
-    "_publications/lu8998439qh.tmp",
-    "_publications/lu8998439qf.tmp",
-    "_publications/2008-entwicklung-standortinformationssystem.md\n",
-    "_publications/lu8998439qe.tmp",
-    "_publications/lu8998439qb.tmp",
     "_publications/2015-10-01-paper-title-number-3 1.md",
     "images/Jürgen Lembcke.jpg",
     "images/bio-photo.jpg",
@@ -224,7 +225,6 @@
     "_publications/Juergen Mark Lembcke.md",
     "README.md",
     "_posts/2012-08-14-blog-post-1.md",
-    "Untitled.md",
-    "test_note.md"
+    "Untitled.md"
   ]
 }

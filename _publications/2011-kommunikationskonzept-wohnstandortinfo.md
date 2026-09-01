@@ -1,2 +1,24 @@
-\***title: "Kommunikationskonzept für die Wohnstandortinfo: Wie für ein schwieriges Thema Marketing gemacht werden kann" collection: publications permalink: /publication/2011-kommunikationskonzept-wohnstandortinfo date: 2011-01-01 venue: "In: Bock, S., Hinzen, A., & Libbe, J. (Eds.), Nachhaltiges Flächenmanagement – Ein Handbuch für die Praxis. Deutsches Institut für Urbanistik." excerpt: "Wie für ein schwieriges Thema Marketing gemacht werden kann." citation: "Lembcke, J., & Liepe, S. (2011). Kommunikationskonzept für die Wohnstandortinfo. Wie für ein schwieriges Thema Marketing gemacht werden kann. In S. Bock, A. Hinzen, & J. Libbe (Eds.), Nachhaltiges Flächenmanagement – Ein Handbuch für die Praxis (pp. \[NOT VERIFIED\]). Deutsches Institut für Urbanistik." ---** \***\#\#** \***Publisher Links** \***-** \***DIFU: [https://difu.de/publikationen/2011/nachhaltiges-flaechenmanagement-ein-handbuch-fuer-die-praxis](https://difu.de/publikationen/2011/nachhaltiges-flaechenmanagement-ein-handbuch-fuer-die-praxis) -** \***Amazon: https://www.amazon.de/-/en/Nachhaltiges-Fl%C3%A4chenmanagement-Handbuch-Ergebnisse-REFINA-Forschung/dp/3881184899 \#\#** \***Downloads** \***\[Add paperurl here when PDF is available\]**
+---
+
+title: "Kommunikationskonzept für die Wohnstandortinfo: Wie für ein schwieriges Thema Marketing gemacht werden kann"
+
+collection: publications
+
+category: manuscripts
+
+permalink: /publication/2011-kommunikationskonzept-wohnstandortinfo
+
+excerpt: "Wie für ein schwieriges Tema Marketing gemacht werden kann."
+
+date: 2011-01-01
+
+venue: "In: Bock, S., Hinzen, A., & Libbe, J. (Eds.), Nachhaltiges Flächenmanagement – Ein Handbuch für die Praxis. Deutsches Institut für Urbanistik."
+
+slidesurl: ""
+
+paperurl: ""
+
+citation: "Lembcke, J., & Liepe, S. (2011). Kommunikationskonzept für die Wohnstandortinfo. Wie für ein schwieriges Thema Marketing gemacht werden kann. In S. Bock, A. Hinzen, & J. Libbe (Eds.), Nachhaltiges Flächenmanagement – Ein Handbuch für die Praxis (pp. \[NOT VERIFIED\]). Deutsches Institut für Urbanistik."
+
+---
 
