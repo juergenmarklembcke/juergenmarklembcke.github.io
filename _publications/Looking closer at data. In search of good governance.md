@@ -2,7 +2,7 @@
 title: "Looking closer at data: In search of good governance"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-1
+permalink: /publication/2015-10-01-paper-title-number-3
 excerpt:
 date:
 venue:
