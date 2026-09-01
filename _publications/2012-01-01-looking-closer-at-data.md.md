@@ -1,7 +1,7 @@
 ---
 title: "Looking closer at data: In search of good governance"
 collection: publications
-category:
+category: manuscripts
 permalink: /publication/2012-looking-closer-at-data
 excerpt:
 date: 2012-01-01
