@@ -1,4 +1,4 @@
----
+
 
 title: "Kommunikationskonzept für die Wohnstandortinfo: Wie für ein schwieriges Thema Marketing gemacht werden kann"
 
@@ -14,10 +14,6 @@ date: 2011-01-01
 
 venue: "In: Bock, S., Hinzen, A., & Libbe, J. (Eds.), Nachhaltiges Flächenmanagement – Ein Handbuch für die Praxis. Deutsches Institut für Urbanistik."
 
-slidesurl: ""
-
-paperurl: ""
-
 citation: "Lembcke, J., & Liepe, S. (2011). Kommunikationskonzept für die Wohnstandortinfo. Wie für ein schwieriges Thema Marketing gemacht werden kann. In S. Bock, A. Hinzen, & J. Libbe (Eds.), Nachhaltiges Flächenmanagement – Ein Handbuch für die Praxis. Deutsches Institut für Urbanistik."
 
----
+
