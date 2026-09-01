@@ -11,12 +11,14 @@
             "id": "e0af34ca0bc87b59",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/bio-photo.jpg"
+                "file": "_publications/Looking closer at data. In search of good governance.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "bio-photo"
+              "icon": "lucide-file",
+              "title": "Looking closer at data. In search of good governance"
             }
           }
         ]
@@ -184,9 +186,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "c3bbc46e6be82d80",
+  "active": "e0af34ca0bc87b59",
   "lastOpenFiles": [
+    "files/paper1.pdf",
+    "_publications/Looking closer at data. In search of good governance.md",
+    "_publications/2015-10-01-paper-title-number-3.md",
     "images/Jürgen Lembcke.jpg",
+    "images/bio-photo.jpg",
     "_pages/404.md",
     "_pages/terms.md",
     "_pages/sitemap.md",
@@ -197,11 +203,9 @@
     "_pages/cv.md",
     "_pages/archive-layout-with-content.md",
     "_portfolio/portfolio-1.md",
-    "_publications/2010-10-01-paper-title-number-2.md",
     "_publications/2025-06-08-paper-title-number-5.md",
     "markdown_generator/README.md",
     "_publications/Juergen Mark Lembcke.md",
-    "images/bio-photo.jpg",
     "README.md",
     "_posts/2012-08-14-blog-post-1.md",
     "Untitled.md",
