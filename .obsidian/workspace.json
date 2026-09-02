@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_publications/2008-gestaltungsprinzipien-geschaeftsstrassen.md",
+                "file": "_talks/2012-03-01-talk-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2008-gestaltungsprinzipien-geschaeftsstrassen"
+              "title": "2012-03-01-talk-1"
             }
           }
         ]
@@ -188,6 +188,20 @@
   },
   "active": "e0af34ca0bc87b59",
   "lastOpenFiles": [
+    "_publications/lu8260ztha.tmp",
+    "_publications/lu8260zth8.tmp",
+    "_portfolio/portfolio-1.md",
+    "_pages/archive-layout-with-content.md",
+    "_pages/404.md",
+    "_drafts/post-draft.md",
+    "_pages/terms.md",
+    "_pages/sitemap.md",
+    "_pages/non-menu-page.md",
+    "_pages/markdown.md",
+    "_pages/Juergen Mark Lembcke Bio.md",
+    "_pages/cv-json.md",
+    "_pages/cv.md",
+    "_publications/2008-gestaltungsprinzipien-geschaeftsstrassen.md",
     "_publications/lu8260zth5.tmp",
     "_publications/2009-stadt-handelsentwicklung-kleinstaedte.md",
     "_publications/2011-kommunikationskonzept-wohnstandortinfo.md",
@@ -195,11 +209,6 @@
     "_publications/2015-10-01-paper-title-number-3 1.md",
     "_publications/lu7477o7qg.tmp",
     "_publications/lu7324lv4k.tmp",
-    "_pages/Juergen Mark Lembcke Bio.md",
-    "_pages/cv-json.md",
-    "_pages/cv.md",
-    "_pages/archive-layout-with-content.md",
-    "_pages/404.md",
     "_publications/2024-02-17-paper-title-number-4.md",
     "_publications/lu8998439tf.tmp",
     "images/Jürgen Lembcke .jpg",
@@ -210,24 +219,15 @@
     "_publications/lu8998439tc.tmp",
     "_publications/lu8998439t9.tmp",
     "_publications/lu8998439t6.tmp",
-    "_publications/2008-gestaltungsprinzipien-geschaeftsstrassen.md",
     "images/bio-photo.jpg",
     "_publications/lu8998439t3.tmp",
     "_publications/lu8998439sz.tmp",
-    "_publications/lu8998439sw.tmp",
-    "_publications/lu8998439st.tmp",
     "images/2026 06 b Jürgen Lembcke .jpg",
     "_publications/2008-entwicklungschancen-nutzungscluster.md",
     "images/Jürgen Lembcke.jpg",
-    "_pages/terms.md",
-    "_pages/sitemap.md",
-    "_pages/non-menu-page.md",
-    "_pages/markdown.md",
-    "_portfolio/portfolio-1.md",
     "markdown_generator/README.md",
     "_publications/Juergen Mark Lembcke.md",
     "README.md",
-    "_posts/2012-08-14-blog-post-1.md",
-    "Untitled.md"
+    "_posts/2012-08-14-blog-post-1.md"
   ]
 }

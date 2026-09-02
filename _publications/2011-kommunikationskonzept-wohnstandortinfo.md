@@ -16,10 +16,10 @@ venue: |
 
   In: Bock, S., Hinzen, A., & Libbe, J. (Eds.), Nachhaltiges Flächenmanagement – Ein Handbuch für die Praxis. Deutsches Institut für Urbanistik.
 
-  https://difu.de/publikationen/2011/nachhaltiges-flaechenmanagement-ein-handbuch-fuer-die-praxis
+  \<a href="https://difu.de/publikationen/2011/nachhaltiges-flaechenmanagement-ein-handbuch-fuer-die-praxis"\>https://difu.de/publikationen/2011/nachhaltiges-flaechenmanagement-ein-handbuch-fuer-die-praxis\</a\>\<br/\>
 
-  https://www.amazon.de/-/en/Nachhaltiges-Fl%C3%A4chenmanagement-Handbuch-Ergebnisse-REFINA-Forschung/dp/3881184899
+  \<a href="https://www.amazon.de/-/en/Nachhaltiges-Fl%C3%A4chenmanagement-Handbuch-Ergebnisse-REFINA-Forschung/dp/3881184899"\>https://www.amazon.de/-/en/Nachhaltiges-Fl%C3%A4chenmanagement-Handbuch-Ergebnisse-REFINA-Forschung/dp/3881184899\</a\>
 
-citation: "Lembcke, J., & Liepe, S. (2011). Kommunikationskonzept für die Wohnstandortinfo. Wie für ein schwieriges Thema Marketing gemacht werden kann. In S. Bock, A., Hinzen, A., & Libbe, J. (Eds.), Nachhaltiges Flächenmanagement – Ein Handbuch für die Praxis. Deutsches Institut für Urbanistik."
+citation: "Lembcke, J., & Liepe, S. (2011). Kommunikationskonzept für die Wohnstandortinfo. Wie für ein schwieriges Thema Marketing gemacht werden kann. In S. Bock, A. Hinzen, A., & Libbe, J. (Eds.), Nachhaltiges Flächenmanagement – Ein Handbuch für die Praxis. Deutsches Institut für Urbanistik."
 
 ---
