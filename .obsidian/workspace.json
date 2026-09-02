@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_talks/2012-03-01-talk-1.md",
+                "file": "_pages/jml Bio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2012-03-01-talk-1"
+              "title": "jml Bio"
             }
           }
         ]
@@ -188,6 +188,7 @@
   },
   "active": "e0af34ca0bc87b59",
   "lastOpenFiles": [
+    "_talks/2012-03-01-talk-1.md",
     "_publications/lu8260ztha.tmp",
     "_publications/lu8260zth8.tmp",
     "_portfolio/portfolio-1.md",
@@ -198,7 +199,7 @@
     "_pages/sitemap.md",
     "_pages/non-menu-page.md",
     "_pages/markdown.md",
-    "_pages/Juergen Mark Lembcke Bio.md",
+    "_pages/jml Bio.md",
     "_pages/cv-json.md",
     "_pages/cv.md",
     "_publications/2008-gestaltungsprinzipien-geschaeftsstrassen.md",
@@ -221,7 +222,6 @@
     "_publications/lu8998439t6.tmp",
     "images/bio-photo.jpg",
     "_publications/lu8998439t3.tmp",
-    "_publications/lu8998439sz.tmp",
     "images/2026 06 b Jürgen Lembcke .jpg",
     "_publications/2008-entwicklungschancen-nutzungscluster.md",
     "images/Jürgen Lembcke.jpg",
