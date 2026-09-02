@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/jml Bio.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "jml Bio"
+              "title": "README"
             }
           }
         ]
@@ -188,20 +188,25 @@
   },
   "active": "e0af34ca0bc87b59",
   "lastOpenFiles": [
-    "_publications/lu103481uj3g.tmp",
-    "_publications/lu102551txl3.tmp",
-    "_talks/2012-03-01-talk-1.md",
-    "_publications/lu8260ztha.tmp",
-    "_publications/lu8260zth8.tmp",
+    "_publications/lu1122828meg.tmp",
+    "_publications/lu11142288wq.tmp",
+    "assets/fonts/academicons.svg",
+    "_publications/2008-entwicklung-standortinformationssystem.md",
+    "_publications/2008-entwicklungschancen-nutzungscluster.md",
     "_portfolio/portfolio-1.md",
-    "_pages/archive-layout-with-content.md",
-    "_pages/404.md",
-    "_drafts/post-draft.md",
     "_pages/terms.md",
     "_pages/sitemap.md",
     "_pages/non-menu-page.md",
     "_pages/markdown.md",
     "_pages/jml Bio.md",
+    "_publications/lu103481uj3g.tmp",
+    "_publications/lu102551txl3.tmp",
+    "_talks/2012-03-01-talk-1.md",
+    "_publications/lu8260ztha.tmp",
+    "_publications/lu8260zth8.tmp",
+    "_pages/archive-layout-with-content.md",
+    "_pages/404.md",
+    "_drafts/post-draft.md",
     "_pages/cv-json.md",
     "_pages/cv.md",
     "_publications/2008-gestaltungsprinzipien-geschaeftsstrassen.md",
@@ -217,14 +222,10 @@
     "images/Jürgen Lembcke .jpg",
     "_publications/2025-06-08-paper-title-number-5.md",
     "images/Jürgen Mark Lembcke .jpg",
-    "_publications/2008-entwicklung-standortinformationssystem.md",
     "_publications/2012-01-01-looking-closer-at-data.md.md",
     "_publications/lu8998439tc.tmp",
-    "_publications/lu8998439t9.tmp",
-    "_publications/lu8998439t6.tmp",
     "images/bio-photo.jpg",
     "images/2026 06 b Jürgen Lembcke .jpg",
-    "_publications/2008-entwicklungschancen-nutzungscluster.md",
     "images/Jürgen Lembcke.jpg",
     "markdown_generator/README.md",
     "_publications/Juergen Mark Lembcke.md",
