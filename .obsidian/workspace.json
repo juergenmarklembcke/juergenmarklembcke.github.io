@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_publications/2011-kommunikationskonzept-wohnstandortinfo.md",
+                "file": "_drafts/2011-kommunikationskonzept-wohnstandortinfo   b.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2011-kommunikationskonzept-wohnstandortinfo"
+              "title": "2011-kommunikationskonzept-wohnstandortinfo   b"
             }
           }
         ]
@@ -186,11 +186,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "e0af34ca0bc87b59",
+  "active": "c3bbc46e6be82d80",
   "lastOpenFiles": [
-    "images/Jürgen_Lembcke_Portrait.png",
-    "_publications/2011-kommunikationskonzept-wohnstandortinfo   b.md",
     "_publications/2011-kommunikationskonzept-wohnstandortinfo.md",
+    "images/Jürgen_Lembcke_Portrait.png",
+    "_drafts/2011-kommunikationskonzept-wohnstandortinfo   b.md",
     "_publications/2009-stadt-handelsentwicklung-kleinstaedte.md",
     "README.md",
     "_publications/lu1122828meg.tmp",
