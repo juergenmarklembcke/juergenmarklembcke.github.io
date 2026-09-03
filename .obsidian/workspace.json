@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/jml Bio.md",
+                "file": "_publications/2011-kommunikationskonzept-wohnstandortinfo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "jml Bio"
+              "title": "2011-kommunikationskonzept-wohnstandortinfo"
             }
           }
         ]
@@ -188,10 +188,19 @@
   },
   "active": "e0af34ca0bc87b59",
   "lastOpenFiles": [
+    "markdown_generator/README.md",
+    "_drafts/post-draft.md",
+    "_drafts/2011-kommunikationskonzept-wohnstandortinfo   b.md",
+    "_pages/non-menu-page.md",
+    "_pages/markdown.md",
+    "_pages/jml Bio.md",
+    "_pages/cv-json.md",
     "_pages/cv.md",
+    "_pages/archive-layout-with-content.md",
+    "_pages/terms.md",
+    "_pages/sitemap.md",
     "_portfolio/portfolio-1.md",
     "_publications/2011-kommunikationskonzept-wohnstandortinfo.md",
-    "_drafts/2011-kommunikationskonzept-wohnstandortinfo   b.md",
     "images/Jürgen_Lembcke_Portrait.png",
     "_publications/2009-stadt-handelsentwicklung-kleinstaedte.md",
     "README.md",
@@ -200,20 +209,12 @@
     "assets/fonts/academicons.svg",
     "_publications/2008-entwicklung-standortinformationssystem.md",
     "_publications/2008-entwicklungschancen-nutzungscluster.md",
-    "_pages/terms.md",
-    "_pages/sitemap.md",
-    "_pages/non-menu-page.md",
-    "_pages/markdown.md",
-    "_pages/jml Bio.md",
     "_publications/lu103481uj3g.tmp",
     "_publications/lu102551txl3.tmp",
     "_talks/2012-03-01-talk-1.md",
     "_publications/lu8260ztha.tmp",
     "_publications/lu8260zth8.tmp",
-    "_pages/archive-layout-with-content.md",
     "_pages/404.md",
-    "_drafts/post-draft.md",
-    "_pages/cv-json.md",
     "_publications/2008-gestaltungsprinzipien-geschaeftsstrassen.md",
     "_publications/lu8260zth5.tmp",
     "_publications/2015-10-01-paper-title-number-3.md",
@@ -228,7 +229,6 @@
     "images/bio-photo.jpg",
     "images/2026 06 b Jürgen Lembcke .jpg",
     "images/Jürgen Lembcke.jpg",
-    "markdown_generator/README.md",
     "_publications/Juergen Mark Lembcke.md"
   ]
 }
