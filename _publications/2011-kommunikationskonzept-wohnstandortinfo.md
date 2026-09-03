@@ -1,7 +1,7 @@
 ---
 title: "Kommunikationskonzept für die Wohnstandortinfo: Wie für ein schwieriges Thema Marketing gemacht werden kann"
 collection: publications
-category:
+category: manuscripts
 permalink: /publication/2011-kommunikationskonzept-wohnstandortinfo
 excerpt: https://difu.de/publikationen/2011/nachhaltiges-flaechenmanagement-ein-handbuch-fuer-die-praxis
 date: 2011-01-01
