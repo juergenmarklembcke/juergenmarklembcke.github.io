@@ -1,5 +1,4 @@
 
-
 title: "" collection: publications category: manuscripts permalink: / excerpt:
 
 - [https://difu.de/publikationen/2011/nachhaltiges-flaechenmanagement-ein-handbuch-fuer-die-praxis](https://difu.de/publikationen/2011/nachhaltiges-flaechenmanagement-ein-handbuch-fuer-die-praxis) 
