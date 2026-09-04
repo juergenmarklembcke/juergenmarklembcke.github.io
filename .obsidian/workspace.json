@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_publications/2011-01-01-kommunikationskonzept-wohnstandortinfo.md",
+                "file": "_publications/2012-01-01-looking-closer-at-data.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2011-01-01-kommunikationskonzept-wohnstandortinfo"
+              "title": "2012-01-01-looking-closer-at-data.md"
             }
           }
         ]
@@ -188,8 +188,8 @@
   },
   "active": "e0af34ca0bc87b59",
   "lastOpenFiles": [
-    "_publications/2009-stadt-handelsentwicklung-kleinstaedte.md",
     "_publications/2011-01-01-kommunikationskonzept-wohnstandortinfo.md",
+    "_publications/2009-stadt-handelsentwicklung-kleinstaedte.md",
     "_publications/2008-gestaltungsprinzipien-geschaeftsstrassen.md",
     "_publications/k.md",
     "_publications/2012-01-01-looking-closer-at-data.md.md",
