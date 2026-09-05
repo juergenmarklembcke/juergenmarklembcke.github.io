@@ -7,6 +7,6 @@ excerpt:
 date: 2012-01-01
 venue: Deutscher Entwicklungsdienst (DED), Indonesia
 slidesurl:
-paperurl: Looking Closer at Data, In Search of Good Governance
+paperurl: files/Looking Closer at Data, In Search of Good Governance
 citation: "Lembcke, J., & Sugi, F. (2012). Looking closer at data: In search of good governance. Good data management saves cost and time for civil servants in performing their official chores. [Deutscher Entwicklungsdienst]."
 ---
