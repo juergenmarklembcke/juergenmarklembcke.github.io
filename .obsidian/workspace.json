@@ -11,14 +11,12 @@
             "id": "e0af34ca0bc87b59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "_publications/2008-Integration innerstädtischer Einkaufszentren.md",
-                "mode": "source",
-                "source": false
+                "file": "files/DSSW-Schriften_57.pdf"
               },
-              "icon": "lucide-file",
-              "title": "2008-Integration innerstädtischer Einkaufszentren"
+              "icon": "lucide-file-text",
+              "title": "DSSW-Schriften_57"
             }
           }
         ]
@@ -188,6 +186,7 @@
   },
   "active": "e0af34ca0bc87b59",
   "lastOpenFiles": [
+    "_publications/2008-Integration innerstädtischer Einkaufszentren.md",
     "_pages/cv-json.md",
     "_pages/cv.md",
     "_pages/archive-layout-with-content.md",
@@ -199,7 +198,6 @@
     "_pages/non-menu-page.md",
     "_pages/markdown.md",
     "_pages/jml Bio.md",
-    "_publications/2008-Integration innerstädtischer Einkaufszentren.md",
     "files/DSSW-Schriften_57.pdf",
     "files/DSSW-Schriften_60.pdf",
     "files/Looking_closer_at_data.pdf",
