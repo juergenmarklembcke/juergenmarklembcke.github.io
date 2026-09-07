@@ -11,12 +11,14 @@
             "id": "e0af34ca0bc87b59",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "files/DSSW-Schriften_57.pdf"
+                "file": "_publications/2008-kostenrechnung-geschäftsstraßen.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "DSSW-Schriften_57"
+              "icon": "lucide-file",
+              "title": "2008-kostenrechnung-geschäftsstraßen"
             }
           }
         ]
@@ -186,6 +188,10 @@
   },
   "active": "e0af34ca0bc87b59",
   "lastOpenFiles": [
+    "_publications/2008-gestaltungsprinzipien-geschaeftsstrassen.md",
+    "files/2008-gestaltung-kostenrechnung.pdf",
+    "_publications/2008-kostenrechnung-geschäftsstraßen.md",
+    "files/DSSW-Schriften_57.pdf",
     "_publications/2008-Integration innerstädtischer Einkaufszentren.md",
     "_pages/cv-json.md",
     "_pages/cv.md",
@@ -198,10 +204,8 @@
     "_pages/non-menu-page.md",
     "_pages/markdown.md",
     "_pages/jml Bio.md",
-    "files/DSSW-Schriften_57.pdf",
     "files/DSSW-Schriften_60.pdf",
     "files/Looking_closer_at_data.pdf",
-    "_publications/2008-gestaltungsprinzipien-geschaeftsstrassen.md",
     "_publications/2009-stadt-handelsentwicklung-kleinstaedte.md",
     "_publications/2008-integration-innerstaedtischer-einkaufszentren.md",
     "_publications/2012-01-01-looking-closer-at-data.md 1.md",
@@ -223,14 +227,11 @@
     "_publications/2003-wochenmaerkte-merkmale.md",
     "_publications/2005-weiterentwicklung-innerstaedtischer-nutzungen.md",
     "_publications/2008-entwicklung-standortinformationssystem.md",
-    "_publications/2008-entwicklungschancen-nutzungscluster.md",
     "_publications/20260906 JL insert Online  für Obsidian",
     "_publications/lu160964zlvz.tmp",
-    "_publications/2011-01-01-kommunikationskonzept-wohnstandortinfo 1.md",
     "_publications/lu7004lgml.tmp",
     "_publications/lu1122828meg.tmp",
     "_publications/lu11142288wq.tmp",
-    "_publications/lu103481uj3g.tmp",
-    "_publications/lu102551txl3.tmp"
+    "_publications/lu103481uj3g.tmp"
   ]
 }
