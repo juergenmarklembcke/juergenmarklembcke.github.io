@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_publications/2008-erfolgreiche-innenstadtentwicklung.md",
+                "file": "_publications/2007-Nutzungscluster.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2008-erfolgreiche-innenstadtentwicklung"
+              "title": "2007-Nutzungscluster"
             }
           }
         ]
@@ -188,14 +188,22 @@
   },
   "active": "e0af34ca0bc87b59",
   "lastOpenFiles": [
-    "_publications/2008-gestaltungsprinzipien-geschaeftsstrassen.md",
     "_publications/2008-erfolgreiche-innenstadtentwicklung.md",
+    "_publications/2008-entwicklungschancen-nutzungscluster.md",
+    "_publications/2008-entwicklung-standortinformationssystem.md",
+    "_publications/2007-Nutzungscluster.md",
+    "_publications/2005-weiterentwicklung-innerstaedtischer-nutzungen.md",
+    "_publications/2003-wochenmaerkte-merkmale.md",
+    "_publications/2012-01-01-looking-closer-at-data.md 1.md",
+    "_publications/2011-01-01-kommunikationskonzept-wohnstandortinfo.md",
     "_publications/2008-standortinformationssystem.md",
     "_publications/2008-kostenrechnung-geschäftsstraßen.md",
+    "_publications/2008-Integration innerstädtischer Einkaufszentren.md",
+    "_publications/2008-gestaltungsprinzipien-geschaeftsstrassen.md",
+    "files/DSSW-Schriften_61.pdf",
     "files/Entwicklung eines Standortinformationssystems für Geschäftsstraßen.pdf",
     "files/2008-gestaltung-kostenrechnung.pdf",
     "files/DSSW-Schriften_57.pdf",
-    "_publications/2008-Integration innerstädtischer Einkaufszentren.md",
     "_pages/cv-json.md",
     "_pages/cv.md",
     "_pages/archive-layout-with-content.md",
@@ -211,10 +219,7 @@
     "files/Looking_closer_at_data.pdf",
     "_publications/2009-stadt-handelsentwicklung-kleinstaedte.md",
     "_publications/2008-integration-innerstaedtischer-einkaufszentren.md",
-    "_publications/2012-01-01-looking-closer-at-data.md 1.md",
-    "_publications/2011-01-01-kommunikationskonzept-wohnstandortinfo.md",
     "README.md",
-    "markdown_generator/README.md",
     "images/profile.png",
     "images/Jürgen_Lembcke_Portrait.png",
     "images/Jürgen Lembcke .jpg",
@@ -225,14 +230,9 @@
     "images/editing-talk.png",
     "images/bio-photo-2.jpg",
     "images/bio-photo.jpg",
-    "_talks/2012-03-01-talk-1.md",
-    "_drafts/2012-01-01-looking-closer-at-data.md.md",
-    "_publications/2003-wochenmaerkte-merkmale.md",
-    "_publications/2005-weiterentwicklung-innerstaedtischer-nutzungen.md",
     "_publications/20260906 JL insert Online  für Obsidian",
     "_publications/lu160964zlvz.tmp",
     "_publications/lu7004lgml.tmp",
-    "_publications/lu1122828meg.tmp",
-    "_publications/lu11142288wq.tmp"
+    "_publications/lu1122828meg.tmp"
   ]
 }
