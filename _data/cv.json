@@ -8,15 +8,15 @@
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Frankfurt am Main",
       "countryCode": "US",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
+        "network": "",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": ""
       },
       {
         "network": "ORCID",
