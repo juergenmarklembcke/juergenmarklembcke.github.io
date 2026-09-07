@@ -1,7 +1,7 @@
 ---
 title: "Entwicklung eines Standortinformationssystems für Geschäftsstraßen: Abschlussbericht zum Pilotprojekt in Auerbach/Vogtland"
 collection: publications
-category: concept and leadership
+category: manuscripts
 permalink: /publication/2008-standortinformationssystem
 excerpt: ""
 date: 2008-01-01

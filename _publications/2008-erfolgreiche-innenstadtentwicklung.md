@@ -1,7 +1,7 @@
 ---
 title: Erfolgreiche Innenstadtentwicklung durch den Ausbau integrierter Standorte
 collection: publications
-category: articles
+category: manuscripts
 permalink: /publication/2008-erfolgreiche-innenstadtentwicklung
 excerpt: ""
 date: 2008-01-03

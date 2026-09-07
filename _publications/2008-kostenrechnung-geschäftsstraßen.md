@@ -1,7 +1,7 @@
 ---
 title: "Kostenrechnung für Geschäftsstraßen: Monetäre Bewertungsmethoden für straßenräumliche Reduktionsansätze."
 collection: publications
-category: concept and leadership
+category: manuscripts
 permalink: /publication/2008-kostenrechnung-geschäftsstraßen
 excerpt: ""
 date: 2008-01-01

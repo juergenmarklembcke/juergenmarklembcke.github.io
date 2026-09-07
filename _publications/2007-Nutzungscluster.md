@@ -1,7 +1,7 @@
 ---
 title: Entwicklungschancen kleinräumiger Nutzungscluster – Identifikation und Analyse von Spezialisierungen und kleinräumigen Nutzungsclustern an integrierten Standorten
 collection: publications
-category: concept and leadership
+category: manuscripts
 permalink: /publication/2007-Nutzungscluster
 excerpt: ""
 date: 2007-01-01
