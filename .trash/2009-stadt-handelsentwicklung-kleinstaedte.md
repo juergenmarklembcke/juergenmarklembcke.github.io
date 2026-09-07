@@ -8,4 +8,3 @@ date: 2009-01-01
 venue:
 citation: "Lembcke, J., Liepe, S., Scheibig, H., & Schwabe, M. (2009). Stadt- und Handelsentwicklung von Kleinstädten: Analyse, Bewertung und Instrumente. Ministerium für Infrastruktur und Raumordnung des Landes Brandenburg"
 ---
-

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_publications/2008-gestaltungsprinzipien-geschaeftsstrassen.md",
+                "file": "_publications/2008-Integration innerstädtischer Einkaufszentren.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2008-gestaltungsprinzipien-geschaeftsstrassen"
+              "title": "2008-Integration innerstädtischer Einkaufszentren"
             }
           }
         ]
@@ -188,13 +188,15 @@
   },
   "active": "e0af34ca0bc87b59",
   "lastOpenFiles": [
+    "files/DSSW-Schriften_57.pdf",
     "files/DSSW-Schriften_60.pdf",
+    "files/Looking_closer_at_data.pdf",
     "_publications/2008-Integration innerstädtischer Einkaufszentren.md",
-    "_publications/2008-integration-innerstaedtischer-einkaufszentren.md",
     "_publications/2008-gestaltungsprinzipien-geschaeftsstrassen.md",
+    "_publications/2009-stadt-handelsentwicklung-kleinstaedte.md",
+    "_publications/2008-integration-innerstaedtischer-einkaufszentren.md",
     "_publications/2012-01-01-looking-closer-at-data.md 1.md",
     "_publications/2011-01-01-kommunikationskonzept-wohnstandortinfo.md",
-    "_publications/2009-stadt-handelsentwicklung-kleinstaedte.md",
     "README.md",
     "markdown_generator/README.md",
     "images/profile.png",
@@ -207,7 +209,6 @@
     "images/editing-talk.png",
     "images/bio-photo-2.jpg",
     "images/bio-photo.jpg",
-    "files/Looking_closer_at_data.pdf",
     "_talks/2012-03-01-talk-1.md",
     "_drafts/2011-kommunikationskonzept-wohnstandortinfo   b.md",
     "_pages/archive-layout-with-content.md",
