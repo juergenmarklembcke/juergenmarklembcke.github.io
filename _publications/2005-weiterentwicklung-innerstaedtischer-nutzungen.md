@@ -1,7 +1,7 @@
 ---
 title: "Weiterentwicklung innerstädtischer Nutzungen: Teil 1 — Kopplung von Einzelhandel, Dienstleistung, Freizeit und produzierendem Gewerbe"
 collection: publications
-category: manuscripts
+category: books
 permalink: /publication/2005-weiterentwicklung-innerstaedtischer-nutzungen
 excerpt:
 date: 2011-01-01

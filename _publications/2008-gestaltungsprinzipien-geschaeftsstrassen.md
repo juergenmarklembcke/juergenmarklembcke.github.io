@@ -1,7 +1,7 @@
 ---
 title: "Gestaltungsprinzipien für Geschäftsstraßen: Steigerung der Attraktivität, Werbewirksamkeit und Kosteneffizienz durch Reduktion"
 collection: publications
-category: manuscripts
+category: books
 permalink: /publication/2008-gestaltungsprinzipien-geschaeftsstrassen
 excerpt: ""
 date: 2008-01-01

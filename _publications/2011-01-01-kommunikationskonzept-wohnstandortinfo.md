@@ -1,7 +1,7 @@
 ---
 title: "Kommunikationskonzept für die Wohnstandortinfo: Wie für ein schwieriges Thema Marketing gemacht werden kann"
 collection: publications
-category: manuscripts
+category: books
 permalink: /publication/2011-kommunikationskonzept-wohnstandortinfo
 excerpt:
 date: 2011-01-01

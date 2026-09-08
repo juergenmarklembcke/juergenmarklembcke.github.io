@@ -3,7 +3,7 @@ excerpt:
 venue: Deutscher Entwicklungsdienst (DED), Indonesia
 title: "Looking closer at data: In search of good governance"
 collection: publications
-category: manuscripts
+category: books
 permalink: /publication/2012-looking-closer-at-data
 date: 2012-01-01
 slidesurl:

@@ -1,7 +1,7 @@
 ---
 title: "Integration innerstädtischer Einkaufszentren: Qualitative Integrationskriterien und Steuerung von Verträglichkeitsgutachten."
 collection: publications
-category: manuscripts
+category: books
 permalink: /publication/2008-Integration innerstädtischer Einkaufszentren
 excerpt: ""
 date: 2008-01-01
