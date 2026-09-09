@@ -6,5 +6,7 @@ permalink: /publication/2008-entwicklungschancen-nutzungscluster
 venue: DSSW Materialien. Deutsches Seminar für Städtebau und Wirtschaft
 excerpt: ""
 date: 2008-01-31
-citation: "Schwade, M., Scheibig, H., Wiemken, T., & Heiß, E. (2008). Entwicklungschancen kleinräumiger Nutzungscluster: Präsentation erster Ergebnisse in der Pilotstadt Auerbach am 31.01.2008 Deutsches Seminar für Städtebau und Wirtschaft im Deutschen Verband für Wohnungswesen, Städtebau und Raumordnung e. V."
+citation: |-
+  
+  2008 Deutsches Seminar für Städtebau und Wirtschaft im Deutschen Verband für Wohnungswesen, Städtebau und Raumordnung e. V.
 ---

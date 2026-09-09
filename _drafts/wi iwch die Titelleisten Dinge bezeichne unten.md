@@ -10,3 +10,9 @@ slidesurl:
 paperurl: /files/Looking_closer_at_data.pdf
 citation: "Lembcke, J., & Sugi, F. (2012). Looking closer at data: In search of good governance. Good data management saves cost and time for civil servants in performing their official chores. [Deutscher Entwicklungsdienst]."
 ---
+books:
+    title: 'Publications'
+  manuscripts:
+    title: 'Idea Generation, Conceptual Collaboration and Supervision'    
+  conferences:
+    title: 'Presentations'

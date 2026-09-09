@@ -23,9 +23,3 @@ venue: |
 citation: "Lembcke, J., & Liepe, S. (2011). Kommunikationskonzept für die Wohnstandortinfo. Wie für ein schwieriges Thema Marketing gemacht werden kann. In S. Bock, A. Hinzen, & J. Libbe (Eds.), Nachhaltiges Flächenmanagement – Ein Handbuch für die Praxis. Deutsches Institut für Urbanistik."
 
 ---
-books:
-    title: 'Publications'
-  manuscripts:
-    title: 'Idea Generation, Conceptual Collaboration and Supervision'    
-  conferences:
-    title: 'Presentations'
