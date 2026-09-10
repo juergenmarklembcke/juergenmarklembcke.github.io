@@ -15,7 +15,7 @@
               "state": {
                 "file": "_publications/2003-wochenmaerkte-merkmale.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
