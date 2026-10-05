@@ -37,3 +37,27 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+
+/* ===== Custom overrides ===== */
+
+/* Remove underline from publication titles on list pages */
+.archive__item-title a {
+  text-decoration: none;
+}
+
+/* Keep the blue/bold look but no underline on hover either */
+.archive__item-title a:hover {
+  text-decoration: none;
+}
+
+/* Catalogue entry line: smaller font (also set inline in archive-single.html) */
+.catalogue-entry {
+  font-size: 0.85em;
+  margin-top: -0.4em; /* pull it up close to the venue/date line */
+}
+
+/* Buy paper link spacing */
+.buy-paper {
+  font-size: 0.9em;
+}
