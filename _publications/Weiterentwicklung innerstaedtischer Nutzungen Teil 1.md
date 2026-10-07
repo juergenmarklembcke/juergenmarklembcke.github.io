@@ -2,7 +2,7 @@
 title: "Weiterentwicklung innerstädtischer Nutzungen: Teil 1 — Kopplung von Einzelhandel, Dienstleistung, Freizeit und produzierendem Gewerbe"
 collection: publications
 category: books
-permalink: /publication/Weiterentwicklung innerstädtischer Nutzungen Teil 1
+permalink: /publication/Weiterentwicklung innerstaedtischer Nutzungen Teil 1
 excerpt: ""
 date: 2005-01-01
 venue: DSSW Schriften. Deutsches Seminar für Städtebau und Wirtschaft
