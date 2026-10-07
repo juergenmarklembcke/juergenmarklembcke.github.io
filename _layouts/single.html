@@ -81,10 +81,8 @@ layout: default
             {% if sl %}<a href="{{ page.slidesurl }}">Download Slides</a>{% endif %}
             {% if sl and bib %} | {% endif %}
             {% if bib %}<a href="{{ page.bibtexurl }}">Download Bibtex</a>{% endif %}
-            {% if bib and buy %} | {% endif %}
-            {% if buy and dl %} | {% endif %}
-            {% if buy and sl and bib == false and dl == false %} | {% endif %}
-            {% if buy %}<a href="{{ page.buy_paper }}">Buy Paper</a>{% endif %}
+          {% if buy and (dl or sl or bib) %}<br />{% endif %}
+{% if buy %}<a href="{{ post.buy_paper }}">Buy Paper</a>{% endif %}
           </p>
         {% endif %}
 
