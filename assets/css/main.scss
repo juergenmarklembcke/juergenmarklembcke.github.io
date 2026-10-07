@@ -51,13 +51,13 @@
   text-decoration: none;
 }
 
-/* Catalogue entry line: smaller font (also set inline in archive-single.html) */
+/* Catalogue entry: normal size (was smaller before) */
 .catalogue-entry {
-  font-size: 0.85em;
-  margin-top: -0.4em; /* pull it up close to the venue/date line */
+  font-size: inherit;
+  margin-top: 0;
 }
 
-/* Buy paper link spacing */
-.buy-paper {
-  font-size: 0.9em;
+/* Publication links line: normal size */
+.pub-links {
+  font-size: inherit;
 }

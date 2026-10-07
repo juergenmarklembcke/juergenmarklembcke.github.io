@@ -23,6 +23,31 @@ layout: default
     {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
     {% if page.modified %}<meta itemprop="dateModified" content="{{ page.modified | date: "%B %d, %Y" }}">{% endif %}
 
+    {% assign dl = false %}
+    {% if page.paperurl != nil and page.paperurl != "" %}
+      {% assign dl = true %}
+    {% endif %}
+
+    {% assign buy = false %}
+    {% if page.buy_paper != nil and page.buy_paper != "" %}
+      {% assign buy = true %}
+    {% endif %}
+
+    {% assign sl = false %}
+    {% if page.slidesurl != nil and page.slidesurl != "" %}
+      {% assign sl = true %}
+    {% endif %}
+
+    {% assign bib = false %}
+    {% if page.bibtexurl != nil and page.bibtexurl != "" %}
+      {% assign bib = true %}
+    {% endif %}
+
+    {% assign cat = false %}
+    {% if page.catalogue_entry != nil and page.catalogue_entry != "" %}
+      {% assign cat = true %}
+    {% endif %}
+
     <div class="page__inner-wrap">
       {% unless page.header.overlay_color or page.header.overlay_image %}
         <header>
@@ -30,48 +55,34 @@ layout: default
           {% if page.read_time %}
             <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
           {% endif %}
-        {% if page.modified %}
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
-        {% endif %}
-        
-        {% if page.collection == "teaching" %}
-          <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif page.venue and page.date %}
-          <!-- Venue and Date on one line -->
-          <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
-          {% if page.catalogue_entry %}
-          <p class="catalogue-entry">Catalogue entry: <a href="{{ page.catalogue_entry }}">{{ page.catalogue_entry }}</a></p>
+          {% if page.modified %}
+            <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
           {% endif %}
-        {% elsif page.date %}
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
-        {% endif %}    
+
+          {% if page.collection == "teaching" %}
+            <p>{{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
+          {% elsif page.venue and page.date %}
+            <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}{% if cat %} &middot; Catalogue entry: <a href="{{ page.catalogue_entry }}">{{ page.catalogue_entry }}</a>{% endif %}</p>
+          {% elsif page.date %}
+            <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+          {% endif %}
         </header>
       {% endunless %}
 
       <section class="page__content" itemprop="text">
         {{ content }}
 
-        {% if page.citation or page.paperurl or page.slidesurl or page.bibtexurl or page.buy_paper %}
-          <p style="font-size: smaller">
-            {% if page.citation %}
-              Recommended citation: {{ page.citation }}
-              {% if page.paperurl or page.slidesurl or page.bibtexurl or page.buy_paper %}<br />{% endif %}
-            {% endif %}
-            {% if page.paperurl %}
-              <a href="{{ page.paperurl }}">Download Paper</a>
-              {% if page.slidesurl or page.bibtexurl or page.buy_paper %} | {% endif %}
-            {% endif %}
-            {% if page.slidesurl %}
-              <a href="{{ page.slidesurl }}">Download Slides</a>
-              {% if page.bibtexurl or page.buy_paper %} | {% endif %}
-            {% endif %}
-            {% if page.bibtexurl %}
-              <a href="{{ page.bibtexurl }}">Download Bibtex</a>
-              {% if page.buy_paper %} | {% endif %}
-            {% endif %}
-            {% if page.buy_paper %}
-              <a href="{{ page.buy_paper }}" class="buy-paper">Buy Paper</a>
-            {% endif %}
+        {% if page.citation or dl or sl or bib or buy %}
+          <p class="pub-links">
+            {% if page.citation %}Recommended citation: {{ page.citation }}{% endif %}
+            {% if page.citation and dl %}<br />{% endif %}
+            {% if dl %}<a href="{{ page.paperurl }}">Download Paper</a>{% endif %}
+            {% if dl and sl %} | {% endif %}
+            {% if sl %}<a href="{{ page.slidesurl }}">Download Slides</a>{% endif %}
+            {% if sl and bib %} | {% endif %}
+            {% if bib %}<a href="{{ page.bibtexurl }}">Download Bibtex</a>{% endif %}
+            {% if buy and (dl or sl or bib) %}<br />{% endif %}
+            {% if buy %}<br /><a href="{{ page.buy_paper }}">Buy Paper</a>{% endif %}
           </p>
         {% endif %}
 
