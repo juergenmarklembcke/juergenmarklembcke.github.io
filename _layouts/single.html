@@ -72,18 +72,17 @@ layout: default
       <section class="page__content" itemprop="text">
         {{ content }}
 
-      {% if page.citation or dl or sl or bib or buy %}
-  <p class="pub-links">
-    {% if page.citation %}Recommended citation: {{ page.citation }}{% endif %}
-    {% if page.citation and dl %}<br />{% endif %}
+    {% if page.citation or dl or sl or bib or buy %}
+  <div class="pub-links">
+    {% if page.citation %}Recommended citation: {{ page.citation }}<br />{% endif %}
     {% if dl %}<a href="{{ page.paperurl }}">Download Paper</a>{% endif %}
     {% if dl and sl %} | {% endif %}
     {% if sl %}<a href="{{ page.slidesurl }}">Download Slides</a>{% endif %}
     {% if sl and bib %} | {% endif %}
     {% if bib %}<a href="{{ page.bibtexurl }}">Download Bibtex</a>{% endif %}
-    {% if buy and (page.citation or dl or sl or bib) %}<br />{% endif %}
+    {% if buy and (dl or sl or bib) %} | <br />{% endif %}
     {% if buy %}<a href="{{ page.buy_paper }}">Buy Paper</a>{% endif %}
-  </p>
+  </div>
 {% endif %}
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
