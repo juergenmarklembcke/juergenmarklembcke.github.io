@@ -77,19 +77,18 @@
       <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
 
-    {% if post.citation or dl or sl or bib or buy %}
-      <p class="pub-links">
-        {% if post.citation %}Recommended citation: {{ post.citation }}{% endif %}
-        {% if post.citation and dl %}<br />{% endif %}
-        {% if dl %}<a href="{{ post.paperurl }}">Download Paper</a>{% endif %}
-        {% if dl and sl %} | {% endif %}
-        {% if sl %}<a href="{{ post.slidesurl }}">Download Slides</a>{% endif %}
-        {% if sl and bib %} | {% endif %}
-        {% if bib %}<a href="{{ post.bibtexurl }}">Download Bibtex</a>{% endif %}
-        {% if buy and (dl or sl or bib) %}<br />{% endif %}
-        {% if buy %}<br /><a href="{{ post.buy_paper }}">Buy Paper</a>{% endif %}
-     </p>
-    {% endif %}
+  {% if page.citation or dl or sl or bib or buy %}
+  <div class="pub-links">
+    {% if page.citation %}Recommended citation: {{ page.citation }}<br />{% endif %}
+    {% if dl %}<a href="{{ page.paperurl }}">Download Paper</a>{% endif %}
+    {% if dl and sl %} | {% endif %}
+    {% if sl %}<a href="{{ page.slidesurl }}">Download Slides</a>{% endif %}
+    {% if sl and bib %} | {% endif %}
+    {% if bib %}<a href="{{ page.bibtexurl }}">Download Bibtex</a>{% endif %}
+    {% if buy and (dl or sl or bib) %} | <br />{% endif %}
+    {% if buy %}<a href="{{ page.buy_paper }}">Buy Paper</a>{% endif %}
+  </div>
+{% endif %}
 
   </article>
 </div>
