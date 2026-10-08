@@ -2,7 +2,7 @@
 title: "Wochenmärkte: Merkmale und Entwicklungspotenziale"
 collection: publications
 category: books
-permalink: /publication/Wochenmärkte Merkmale und Entwicklungspotenziale
+permalink: /publication/Wochenmaerkte Merkmale und Entwicklungspotenziale
 excerpt: ""
 date: 2003-11-20
 venue: DSSW Schriften. Deutsches Seminar für Städtebau und Wirtschaft
