@@ -37,7 +37,30 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+/* ===== Königsblau link colors ===== */
 
+/* Publication titles - list view */
+.archive__item-title a {
+  color: #0000FF;
+}
+.archive__item-title a:hover {
+  color: #3333FF;
+}
+
+/* Publication titles - single page */
+.page__title a {
+  color: #0000FF;
+}
+
+/* All content links (Download Paper, Buy Paper, catalogue entry, etc.) */
+.page__content a,
+.archive__item a {
+  color: #0000FF;
+}
+.page__content a:hover,
+.archive__item a:hover {
+  color: #3333FF;
+}
 
 /* ===== Custom overrides ===== */
 
