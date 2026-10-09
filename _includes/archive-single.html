@@ -85,7 +85,7 @@
     {% if sl %}<a href="{{ post.slidesurl }}">Download Slides</a>{% endif %}
     {% if sl and bib %} | {% endif %}
     {% if bib %}<a href="{{ post.bibtexurl }}">Download Bibtex</a>{% endif %}
-    {% if buy and (dl or sl or bib) %} | <br />{% endif %}
+    {% if buy and (dl or sl or bib) %}<br />{% endif %}
     {% if buy %}<a href="{{ post.buy_paper }}">Buy Paper</a>{% endif %}
   </div>
 {% endif %}
