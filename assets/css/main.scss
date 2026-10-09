@@ -37,29 +37,61 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
-/* ===== Königsblau link colors ===== */
+/* ===== Royal Blue link colors ===== */
 
 /* Publication titles - list view */
 .archive__item-title a {
-  color: #0000FF;
+  color: #0033A0;
 }
 .archive__item-title a:hover {
-  color: #3333FF;
+  color: #0044CC;
 }
 
 /* Publication titles - single page */
 .page__title a {
-  color: #0000FF;
+  color: #0033A0;
 }
 
 /* All content links (Download Paper, Buy Paper, catalogue entry, etc.) */
 .page__content a,
 .archive__item a {
-  color: #0000FF;
+  color: #0033A0;
 }
 .page__content a:hover,
 .archive__item a:hover {
-  color: #3333FF;
+  color: #0044CC;
+}
+
+/* Masthead / top navigation */
+.masthead-link a {
+  color: #0033A0;
+}
+.masthead-link a:hover {
+  color: #0044CC;
+}
+
+/* Sidebar links */
+.sidebar .nav .nav-item a {
+  color: #0033A0;
+}
+.sidebar .nav .nav-item a:hover {
+  color: #0044CC;
+}
+
+/* Breadcrumb links */
+.breadcrumbs a {
+  color: #0033A0;
+}
+.breadcrumbs a:hover {
+  color: #0044CC;
+}
+
+/* Pagination links */
+.pagination a {
+  color: #0033A0;
+}
+.pagination a:hover {
+  color: #0044CC;
 }
 
 /* ===== Custom overrides ===== */
