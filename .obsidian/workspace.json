@@ -11,12 +11,10 @@
             "id": "d256ef9bb1a61683",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "images/Jürgen_Lembcke_Portrait.png"
-              },
-              "icon": "lucide-image",
-              "title": "Jürgen_Lembcke_Portrait"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -187,8 +185,8 @@
   },
   "active": "d256ef9bb1a61683",
   "lastOpenFiles": [
-    "_publications/Gestaltung von Geschaeftsstraßen Meran.md",
     "images/Jürgen_Lembcke_Portrait.png",
+    "_publications/Gestaltung von Geschaeftsstraßen Meran.md",
     "images/Jürgen_Lembcke_Portrait.jpg",
     "_publications/Entwicklungschancen kleinraeumiger Nutzungscluster.md",
     "_publications/Entwicklung eines Standortinformationssystems für Geschaeftsstraßen.md",
