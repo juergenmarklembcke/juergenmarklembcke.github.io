@@ -25,14 +25,12 @@
             "id": "d256ef9bb1a61683",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "_publications/Erfolgreiche Innenstadtentwicklung durch den Ausbau integrierter Standorte.md",
-                "mode": "source",
-                "source": false
+                "file": "files/Weiterentwicklung innerstaedtischer Nutzungen Teil 1.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Erfolgreiche Innenstadtentwicklung durch den Ausbau integrierter Standorte"
+              "icon": "lucide-file-text",
+              "title": "Weiterentwicklung innerstaedtischer Nutzungen Teil 1"
             }
           }
         ],
@@ -205,6 +203,9 @@
   "active": "d256ef9bb1a61683",
   "lastOpenFiles": [
     "_publications/Weiterentwicklung innerstaedtischer Nutzungen Teil 1.md",
+    "files/Weiterentwicklung innerstaedtischer Nutzungen Teil 1.pdf",
+    "files/Schriften_53_2006-04-27.pdf",
+    "_publications/Erfolgreiche Innenstadtentwicklung durch den Ausbau integrierter Standorte.md",
     "_publications/2005-weiterentwicklung-innerstaedtischer-nutzungen-1.md",
     "_publications/Entwicklung eines Standortinformationssystems für Geschaeftsstraßen.md",
     "_publications/2008-entwicklung-standortinformationssystem.md",
@@ -231,15 +232,11 @@
     "files/DSSW-Schriften_61.pdf",
     "files/Kleinräumige Nutzungscluster.pdf",
     "_drafts/wi iwch die Titelleisten Dinge bezeichne unten.md",
-    "_publications/Erfolgreiche Innenstadtentwicklung durch den Ausbau integrierter Standorte.md",
     "_publications/Gestaltungsprinzipien für Geschaeftsstraßen.md",
     "_publications/Integration innerstaedtischer Einkaufszentren.md",
     "_publications/Kleinräumige Nutzungscluster.md",
-    "_publications/Kommunikationskonzept für die Wohnstandortinfo.md",
     "files/Erfolgreiche Innenstadtentwicklung durch den Ausbau integrierter Standorte.pdf",
     "files/Gestaltungsprinzipien für Geschaeftsstraßen.pdf",
-    "files/Integration innerstaedtischer Einkaufszentren.pdf",
-    "files/Entwicklung eines Standortinformationssystems für Geschaeftsstraßen.pdf",
     "images/profile.png",
     "images/Jürgen_Lembcke_Portrait.png",
     "images/Jürgen Lembcke .jpg",
