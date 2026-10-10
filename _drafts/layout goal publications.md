@@ -18,3 +18,8 @@ As first step, I would like you to build a template in the obsidian side (the on
 later I want you to built the templates filled according to my publication list
 
 can you tell me which ressource pages on the github side you need to change for the obisidian template to work on academic pages in github?  And please let me know the steps that need to be done to change them, but we will follow up on those later. 
+
+
+DSSW-Studie Gute Beispiele im Umgang mit Gestaltungsvorgaben DSSW-Materialien, Berlin 2008
+heruausgeber Deutsches Seminar fur Stadtebau und Wirtschaft im (alle Rechte vorbehalten) Deutschen Verband flr Wohnungswesen, Stadtebau und Raumordnung e.V. 
+Auftragnehmer Management consult Unternehmensberatung GmbH Elisabeth Mehrmann K6nigswinterer StraBe 154, 53227 Bonn 

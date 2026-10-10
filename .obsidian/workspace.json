@@ -8,33 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c8719aa63eb23885",
+            "id": "d256ef9bb1a61683",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_publications/Kleinräumige Nutzungscluster.md",
+                "file": "_publications/Gute Beispiele im Umgang mit Gestaltungsvorgaben.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kleinräumige Nutzungscluster"
-            }
-          },
-          {
-            "id": "d256ef9bb1a61683",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "files/Weiterentwicklung innerstaedtischer Nutzungen Teil 1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Weiterentwicklung innerstaedtischer Nutzungen Teil 1"
+              "title": "Gute Beispiele im Umgang mit Gestaltungsvorgaben"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,8 +189,11 @@
   },
   "active": "d256ef9bb1a61683",
   "lastOpenFiles": [
-    "_publications/Weiterentwicklung innerstaedtischer Nutzungen Teil 1.md",
+    "_drafts/layout goal publications.md",
+    "_publications/Gute Beispiele im Umgang mit Gestaltungsvorgaben.md",
+    "files/Gute Beispiele im Umgang mit Gestaltungsvorhaben.pdf",
     "files/Weiterentwicklung innerstaedtischer Nutzungen Teil 1.pdf",
+    "_publications/Weiterentwicklung innerstaedtischer Nutzungen Teil 1.md",
     "files/Schriften_53_2006-04-27.pdf",
     "_publications/Erfolgreiche Innenstadtentwicklung durch den Ausbau integrierter Standorte.md",
     "_publications/2005-weiterentwicklung-innerstaedtischer-nutzungen-1.md",
@@ -219,7 +209,6 @@
     "_drafts/publish with github.md",
     "_drafts/Prompt about what i am building.md",
     "_drafts/post-draft.md",
-    "_drafts/layout goal publications.md",
     "_drafts/include archive single original version.md",
     "_drafts/Citation Style.md",
     "_drafts/2026 10 05.md",
@@ -236,7 +225,6 @@
     "_publications/Integration innerstaedtischer Einkaufszentren.md",
     "_publications/Kleinräumige Nutzungscluster.md",
     "files/Erfolgreiche Innenstadtentwicklung durch den Ausbau integrierter Standorte.pdf",
-    "files/Gestaltungsprinzipien für Geschaeftsstraßen.pdf",
     "images/profile.png",
     "images/Jürgen_Lembcke_Portrait.png",
     "images/Jürgen Lembcke .jpg",
