@@ -11,10 +11,14 @@
             "id": "d256ef9bb1a61683",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_publications/Entwicklung eines Standortinformationssystems für Geschaeftsstraßen.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Entwicklung eines Standortinformationssystems für Geschaeftsstraßen"
             }
           }
         ]
@@ -185,9 +189,9 @@
   },
   "active": "d256ef9bb1a61683",
   "lastOpenFiles": [
+    "images/Jürgen_Lembcke_Portrait.jpg",
     "images/Jürgen_Lembcke_Portrait.png",
     "_publications/Gestaltung von Geschaeftsstraßen Meran.md",
-    "images/Jürgen_Lembcke_Portrait.jpg",
     "_publications/Entwicklungschancen kleinraeumiger Nutzungscluster.md",
     "_publications/Entwicklung eines Standortinformationssystems für Geschaeftsstraßen.md",
     "_publications/Wochenmaerkte Merkmale und Entwicklungspotenziale.md",
