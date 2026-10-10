@@ -1,7 +1,7 @@
 ---
 title: "Die Quadratur des Kreises: Attraktive, sichere, werbewirksame, kostengünstige und beständige Gestaltung von Geschäftsstraßen"
-collection: conferences
-category: manuscripts
+collection: publications
+category: conferences
 permalink: /publication/Gestaltung von Geschaeftsstraßen Meran
 excerpt: ""
 date: 2008-07-31
