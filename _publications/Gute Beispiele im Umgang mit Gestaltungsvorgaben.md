@@ -8,7 +8,7 @@ date: 2008-01-01
 venue: DSSW Materialien. Deutsches Seminar für Städtebau und Wirtschaft
 catalogue_entry: ""
 buy_paper: ""
-paperurl: /files/Gute Beispiele im Umgang mit Gestaltungsvorgaben
+paperurl: /files/Gute Beispiele im Umgang mit Gestaltungsvorhaben.pdf
 citation: Mehrmann, E. (2008). Gute Beispiele im Umgang mit Gestaltungsvorgaben (DSSW-Materialien). Deutsches Seminar für Städtebau und Wirtschaft im Deutschen Verband für Wohnungswesen, Städtebau und Raumordnung e. V.
 ---
 

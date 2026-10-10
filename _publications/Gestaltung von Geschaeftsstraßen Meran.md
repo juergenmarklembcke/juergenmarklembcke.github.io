@@ -8,7 +8,7 @@ date: 2008-07-31
 venue:
 catalogue_entry: ""
 buy_paper: ""
-paperurl: /files/Gestaltung von Geschaeftsstraßen Meran
+paperurl: /files/Gestaltung von Geschaeftsstraßen Meran.pdf
 citation: "Lembcke, J. (2008). Die Quadratur des Kreises: Attraktive, sichere, werbewirksame, kostengünstige und beständige Gestaltung von Geschäftsstraßen [Vortrag]. „After Work Conference, EURAC Research, Institut für Regionalentwicklung und Standortmanagement), Meran, Italien"
 ---
 
