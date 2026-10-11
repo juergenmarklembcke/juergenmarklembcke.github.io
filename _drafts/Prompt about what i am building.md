@@ -1,5 +1,22 @@
 I am building my own website on academic pages on github together with my Obsidian app with the "Git"  Community plugin. I have already made good progress. 
 
+we have worked on that before but the conversation ran out and i cannot show you what you advised me to do
+
+we wanted to make 4 menue points 
+
+- Authored Publications
+- Collaborative Publications
+these two out of the publications website with same logic, same yaml fields in Obsidian but the second one as new page
+- Presentations
+this one out of the talks.html file but use the publication fields except for venue (which would appear as published in... (empty) .... year)
+- Projects 
+new page 
+
+while doing all that github ran into mistakes and at the same time your conversation ended and we couldnt resolve it. should i show you the four page files so you know what we trying to do? Showing you all the mistakes on github will take long as it was 14 actions not going through. or what do you propose
+
+
+out of the 
+
 As I do not like all formats and how the information I enter on Obsidian looks on the website, I want to change a few formats/settings either in Obsidian or directly on my repository on github. I also want to add YMAL field lines into the obsidian template for publications namely for clickable links. 
 
 But I do not want to only change it in the source pages but want to have it as a proper fillable field in the Obsidian page template so i can fill it repeatedly. 
