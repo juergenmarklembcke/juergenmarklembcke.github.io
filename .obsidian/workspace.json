@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_publications/Entwicklungschancen kleinraeumiger Nutzungscluster.md",
+                "file": "_pages/jml Bio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Entwicklungschancen kleinraeumiger Nutzungscluster"
+              "title": "jml Bio"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_publications/Entwicklungschancen kleinraeumiger Nutzungscluster.md",
+                "file": "_pages/jml Bio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_publications/Entwicklungschancen kleinraeumiger Nutzungscluster.md",
+                "file": "_pages/jml Bio.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_publications/Entwicklungschancen kleinraeumiger Nutzungscluster.md",
+                "file": "_pages/jml Bio.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -202,6 +202,12 @@
   },
   "active": "d256ef9bb1a61683",
   "lastOpenFiles": [
+    "_drafts/layout new architecture 2026 10 11.md",
+    "_pages/jml Bio.md",
+    "_pages/template 2026 projects 1 1.md",
+    "_drafts/template 2026 projects 1.md",
+    "_drafts/template 2026 projects.md",
+    "_drafts/layout goal publications.md",
     "_publications/Entwicklungschancen kleinraeumiger Nutzungscluster.md",
     "2026-10-11.md",
     "Untitled 1.canvas",
@@ -225,18 +231,13 @@
     "_drafts/2026 10 05.md",
     "_drafts/Citation Style.md",
     "_drafts/How i make internal links.md",
-    "_drafts/layout goal publications.md",
     "_drafts/post-draft.md",
     "_drafts/Prompt about what i am building.md",
     "_drafts/what we tried to do.md",
     "_drafts/wi iwch die Titelleisten Dinge bezeichne unten.md",
-    "_publications/Gestaltungsprinzipien für Geschaeftsstraßen.md",
-    "_publications/Entwicklung eines Standortinformationssystems für Geschaeftsstraßen.md",
-    "_publications/Wochenmaerkte Merkmale und Entwicklungspotenziale.md",
     "files/Gute Beispiele im Umgang mit Gestaltungsvorhaben.pdf",
     "images/Jürgen_Lembcke_Portrait.jpg",
     "images/Jürgen_Lembcke_Portrait.png",
-    "_publications/Weiterentwicklung innerstaedtischer Nutzungen Teil 1.md",
     "files/Gestaltung von Geschäftsstraßen Meran.pdf",
     "files/lu133743y7sf.tmp",
     "files/Gestaltung von Geschäftsstraßen Meran.ppt",
