@@ -59,33 +59,34 @@ layout: default
             <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
           {% endif %}
 
-            {% if post.collection == "teaching" %}
-      <p>{{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
-    {% elsif post.collection == "publications" or post.collection == "talks" %}
-      {% if post.venue != nil and post.venue != "" %}
-        <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}{% if cat %} &middot; Catalogue entry: <a href="{{ post.catalogue_entry }}">{{ post.catalogue_entry }}</a>{% endif %}</p>
-      {% else %}
-        <p>{{ post.date | default: "1900-01-01" | date: "%Y" }}{% if cat %} &middot; Catalogue entry: <a href="{{ post.catalogue_entry }}">{{ post.catalogue_entry }}</a>{% endif %}</p>
-      {% endif %}
-    {% elsif post.date %}
+          {% if post.collection == "teaching" %}
+            <p>{{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+          {% elsif post.collection == "publications" or post.collection == "talks" %}
+            {% if post.venue != nil and post.venue != "" %}
+              <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}{% if cat %} &middot; Catalogue entry: <a href="{{ post.catalogue_entry }}">{{ post.catalogue_entry }}</a>{% endif %}</p>
+            {% else %}
+              <p>{{ post.date | default: "1900-01-01" | date: "%Y" }}{% if cat %} &middot; Catalogue entry: <a href="{{ post.catalogue_entry }}">{{ post.catalogue_entry }}</a>{% endif %}</p>
+            {% endif %}
+          {% elsif post.date %}
+            <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
+          {% endif %}
         </header>
       {% endunless %}
 
       <section class="page__content" itemprop="text">
         {{ content }}
 
-    {% if page.citation or dl or sl or bib or buy %}
-  <div class="pub-links">
-    {% if page.citation %}Recommended citation: {{ page.citation }}<br />{% endif %}
-    {% if dl %}<a href="{{ page.paperurl }}">Download Paper</a>{% endif %}
-    {% if dl and sl %} | {% endif %}
-    {% if sl %}<a href="{{ page.slidesurl }}">Download Slides</a>{% endif %}
-    {% if sl and bib %} | {% endif %}
-    {% if bib %}<a href="{{ page.bibtexurl }}">Download Bibtex</a>{% endif %}
-    {% if buy and dl or buy and sl or buy and bib %}
-    {% if buy %}<a href="{{ page.buy_paper }}">Buy Paper</a>{% endif %}
-  </div>
-{% endif %}
+        {% if page.citation or dl or sl or bib or buy %}
+          <div class="pub-links">
+            {% if page.citation %}Recommended citation: {{ page.citation }}<br />{% endif %}
+            {% if dl %}<a href="{{ page.paperurl }}">Download Paper</a>{% endif %}
+            {% if dl and sl %} | {% endif %}
+            {% if sl %}<a href="{{ page.slidesurl }}">Download Slides</a>{% endif %}
+            {% if sl and bib %} | {% endif %}
+            {% if bib %}<a href="{{ page.bibtexurl }}">Download Bibtex</a>{% endif %}
+            {% if buy %}<a href="{{ page.buy_paper }}">Buy Paper</a>{% endif %}
+          </div>
+        {% endif %}
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
@@ -107,7 +108,6 @@ layout: default
     {% endif %}
   </article>
 
-  {% comment %}<!-- only show related on a post page when not disabled -->{% endcomment %}
   {% if page.id and page.related and site.related_posts.size > 0 %}
     <div class="page__related">
       {% if site.data.ui-text[site.locale].related_label %}
