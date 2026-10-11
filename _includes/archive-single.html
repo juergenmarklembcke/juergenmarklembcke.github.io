@@ -63,13 +63,15 @@
       {% assign cat = true %}
     {% endif %}
 
-    {% if post.collection == "teaching" %}
+      {% if post.collection == "teaching" %}
       <p>{{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
-    {% elsif post.collection == "publications" %}
-      <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}{% if cat %} &middot; Catalogue entry: <a href="{{ post.catalogue_entry }}">{{ post.catalogue_entry }}</a>{% endif %}</p>
+    {% elsif post.collection == "publications" or post.collection == "talks" %}
+      {% if post.venue != nil and post.venue != "" %}
+        <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}{% if cat %} &middot; Catalogue entry: <a href="{{ post.catalogue_entry }}">{{ post.catalogue_entry }}</a>{% endif %}</p>
+      {% else %}
+        <p>{{ post.date | default: "1900-01-01" | date: "%Y" }}{% if cat %} &middot; Catalogue entry: <a href="{{ post.catalogue_entry }}">{{ post.catalogue_entry }}</a>{% endif %}</p>
+      {% endif %}
     {% elsif post.date %}
-      <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
-    {% endif %}
 
     {% if post.excerpt and site.read_more != "enabled" %}
       <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
