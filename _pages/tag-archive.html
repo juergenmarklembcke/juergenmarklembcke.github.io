@@ -1,27 +1,28 @@
 ---
 layout: archive
 permalink: /tags/
-title: "Posts by Tags"
+title: "Topics"
 author_profile: true
 ---
 
 {% include base_path %}
-{% include group-by-array collection=site.publications field="tags" %}
 
-{% for tag in group_names %}
-  {% assign items = group_items[forloop.index0] %}
+{% assign all_pubs = site.publications | where_exp: "pub", "pub.tags.size > 0" %}
+
+{% for tag in all_pubs | map: "tags" | join: "," | split: "," | uniq | sort %}
   <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag | capitalize | replace: '-', ' ' }}</h2>
-  {% for item in items %}
-    {% include archive-single.html %}
+  {% assign tagged_pubs = all_pubs | where_exp: "pub", "pub.tags contains tag" %}
+  {% for pub in tagged_pubs %}
+    - [{{ pub.title }}]({{ pub.url }})
   {% endfor %}
 {% endfor %}
 
-{% include group-by-array collection=site.talks field="tags" %}
+{% assign all_talks = site.talks | where_exp: "talk", "talk.tags.size > 0" %}
 
-{% for tag in group_names %}
-  {% assign items = group_items[forloop.index0] %}
+{% for tag in all_talks | map: "tags" | join: "," | split: "," | uniq | sort %}
   <h2 id="{{ tag | slugify }}-talks" class="archive__subtitle">{{ tag | capitalize | replace: '-', ' ' }}</h2>
-  {% for item in items %}
-    {% include archive-single.html %}
+  {% assign tagged_talks = all_talks | where_exp: "talk", "talk.tags contains tag" %}
+  {% for talk in tagged_talks %}
+    - [{{ talk.title }}]({{ talk.url }})
   {% endfor %}
 {% endfor %}
