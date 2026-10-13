@@ -7,22 +7,30 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign all_pubs = site.publications | where_exp: "pub", "pub.tags.size > 0" %}
+{% assign all_pubs = site.publications %}
 
 {% for tag in all_pubs | map: "tags" | join: "," | split: "," | uniq | sort %}
+  {% assign tag = tag | strip %}
+  {% if tag != "" %}
   <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag | split: '-' | map: 'capitalize' | join: ' ' }}</h2>
-  {% assign tagged_pubs = all_pubs | where_exp: "pub", "pub.tags contains tag" %}
-  {% for pub in tagged_pubs %}
+  {% for pub in all_pubs %}
+    {% if pub.tags contains tag %}
     - [{{ pub.title }}]({{ pub.url }})
+    {% endif %}
   {% endfor %}
+  {% endif %}
 {% endfor %}
 
-{% assign all_talks = site.talks | where_exp: "talk", "talk.tags.size > 0" %}
+{% assign all_talks = site.talks %}
 
 {% for tag in all_talks | map: "tags" | join: "," | split: "," | uniq | sort %}
+  {% assign tag = tag | strip %}
+  {% if tag != "" %}
   <h2 id="{{ tag | slugify }}-talks" class="archive__subtitle">{{ tag | split: '-' | map: 'capitalize' | join: ' ' }}</h2>
-  {% assign tagged_talks = all_talks | where_exp: "talk", "talk.tags contains tag" %}
-  {% for talk in tagged_talks %}
+  {% for talk in all_talks %}
+    {% if talk.tags contains tag %}
     - [{{ talk.title }}]({{ talk.url }})
+    {% endif %}
   {% endfor %}
+  {% endif %}
 {% endfor %}
