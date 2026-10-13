@@ -23,8 +23,7 @@ author_profile: true
 
 {% for tag in collected_tags %}
   {% if tag != "" %}
-## {{ tag | split: '-' | map: 'capitalize' | join: ' ' }}
-
+{{ tag | split: '-' | map: 'capitalize' | join: ' ' | prepend: '## ' | markdown }}
     {% for pub in all_pubs %}
       {% if pub.tags contains tag %}
 - [{{ pub.title }}]({{ pub.url }})
@@ -50,8 +49,7 @@ author_profile: true
 
 {% for tag in collected_tags_talks %}
   {% if tag != "" %}
-## {{ tag | split: '-' | map: 'capitalize' | join: ' ' }} (Talks)
-
+{{ tag | split: '-' | map: 'capitalize' | join: ' ' | append: ' (Talks)' | prepend: '## ' | markdown }}
     {% for talk in all_talks %}
       {% if talk.tags contains tag %}
 - [{{ talk.title }}]({{ talk.url }})
