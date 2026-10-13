@@ -9,8 +9,19 @@ author_profile: true
 
 {% assign all_pubs = site.publications %}
 
-{% for tag in all_pubs | map: "tags" | join: "," | split: "," | uniq | sort %}
-  {% assign tag = tag | strip %}
+{% assign collected_tags = "" | split: "" %}
+
+{% for pub in all_pubs %}
+  {% for tag in pub.tags %}
+    {% unless collected_tags contains tag %}
+      {% assign collected_tags = collected_tags | push: tag %}
+    {% endunless %}
+  {% endfor %}
+{% endfor %}
+
+{% assign collected_tags = collected_tags | sort %}
+
+{% for tag in collected_tags %}
   {% if tag != "" %}
   <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag | split: '-' | map: 'capitalize' | join: ' ' }}</h2>
   {% for pub in all_pubs %}
@@ -23,8 +34,19 @@ author_profile: true
 
 {% assign all_talks = site.talks %}
 
-{% for tag in all_talks | map: "tags" | join: "," | split: "," | uniq | sort %}
-  {% assign tag = tag | strip %}
+{% assign collected_tags_talks = "" | split: "" %}
+
+{% for talk in all_talks %}
+  {% for tag in talk.tags %}
+    {% unless collected_tags_talks contains tag %}
+      {% assign collected_tags_talks = collected_tags_talks | push: tag %}
+    {% endunless %}
+  {% endfor %}
+{% endfor %}
+
+{% assign collected_tags_talks = collected_tags_talks | sort %}
+
+{% for tag in collected_tags_talks %}
   {% if tag != "" %}
   <h2 id="{{ tag | slugify }}-talks" class="archive__subtitle">{{ tag | split: '-' | map: 'capitalize' | join: ' ' }}</h2>
   {% for talk in all_talks %}
