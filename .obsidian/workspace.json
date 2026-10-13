@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_publications/Gestaltung von Geschaeftsstrassen Meran.md",
+                "file": "_pages/jml Bio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gestaltung von Geschaeftsstrassen Meran"
+              "title": "jml Bio"
             }
           }
         ]
@@ -202,6 +202,7 @@
   },
   "active": "d256ef9bb1a61683",
   "lastOpenFiles": [
+    "_publications/Gestaltung von Geschaeftsstrassen Meran.md",
     "files/Gestaltung von Geschaeftsstrassen Meran.pdf",
     "_publications/Wahrnehmung, Wirkung und Bewertung oeffentlicher Raeume.md",
     "files/Gestaltung von Geschäftsstraßen Meran.pdf",
@@ -216,7 +217,6 @@
     "_publications/Integration innerstaedtischer Einkaufszentren.md",
     "_publications/Gute Beispiele im Umgang mit Gestaltungsvorgaben.md",
     "_publications/Gestaltungsprinzipien für Geschaeftsstrassen.md",
-    "_publications/Gestaltung von Geschaeftsstrassen Meran.md",
     "_publications/Entwicklung eines Standortinformationssystems für Geschaeftsstrassen.md",
     "files/Entwicklung eines Standortinformationssystems für Geschaeftsstraßen.pdf",
     "files/Wirksame Geschaeftsstrassengestaltung Dresden.pdf",
