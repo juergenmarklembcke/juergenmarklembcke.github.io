@@ -1,7 +1,7 @@
 ---
 title: "Geschäftsstraßenraumgestaltung: Erhöhung der Funktionalität, Attraktivität und Effizienz durch Reduktion"
 collection: publications
-category: manuscripts
+category: presentations
 permalink: /publication/Geschaeftsstrassenraumgestaltung Korbach
 excerpt: ""
 date: 2008-02-19
