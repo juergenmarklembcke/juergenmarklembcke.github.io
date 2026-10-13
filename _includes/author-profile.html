@@ -36,13 +36,13 @@
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
-{% if page.tags and page.tags.size > 0 %}
-  <div style="margin-top: 3em;">
-    {% for tag in page.tags %}
-      <div><a href="/tags/{{ tag | slugify }}">#{{ tag }}</a></div>
-    {% endfor %}
-  </div>
-{% endif %}
+      {% if page.tags.size > 0 %}
+        <div style="margin-top: 3em;">
+      {% for tag in page.tags %}
+        <div><a href="/tags/{{ tag | slugify }}">#{{ tag }}</a></div>
+      {% endfor %}
+        </div>
+      {% endif %}
       <!-- Font Awesome and Academicons icons / Academic websites -->
       {% if author.academia %}
         <li><a href="{{ author.academia }}"><i class="ai ai-academia ai-fw icon-pad-right" aria-hidden="true"></i>Academia</a></li>
