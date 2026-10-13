@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_publications/Wochenmaerkte Merkmale und Entwicklungspotenziale.md",
-                "mode": "preview",
+                "file": "_pages/Topic one.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Wochenmaerkte Merkmale und Entwicklungspotenziale"
+              "title": "Topic one"
             }
           }
         ]
@@ -202,6 +202,16 @@
   },
   "active": "d256ef9bb1a61683",
   "lastOpenFiles": [
+    "_pages/tag",
+    "_posts/2012-08-14-blog-post-1.md",
+    "_pages/Topic one.md",
+    "Untitled.canvas",
+    "README.md",
+    "Pasted image 20261011193348.png",
+    "2026-10-13.md",
+    "2026-10-11.md",
+    "2003-11-20.md",
+    "_publications/Wochenmaerkte Merkmale und Entwicklungspotenziale.md",
     "_publications/Wirksame Geschaeftsstrassengestaltung Dresden.md",
     "_publications/Wahrnehmung, Wirkung und Bewertung oeffentlicher Raeume.md",
     "_publications/Verkehrsverlagerung durch Foerderung des Umweltverbundes.md",
@@ -216,19 +226,11 @@
     "_drafts/template 2026 publications 1.md",
     "_drafts/template 2026 publications.md",
     "_drafts/template 2026 presentations 1.md",
-    "_publications/Wochenmaerkte Merkmale und Entwicklungspotenziale.md",
     "_publications/Weiterentwicklung innerstaedtischer Nutzungen Teil 1.md",
     "_publications/Looking Closer at Data.md",
     "_publications/Kommunikationskonzept für die Wohnstandortinfo.md",
     "_publications/Kleinräumige Nutzungscluster.md",
-    "_publications/Integration innerstaedtischer Einkaufszentren.md",
-    "_publications/Erfolgreiche Innenstadtentwicklung durch den Ausbau integrierter Standorte.md",
-    "_publications/Entwicklungschancen kleinraeumiger Nutzungscluster.md",
-    "_posts/2199-01-01-future-post.md",
     "_drafts/20260906 JL insert Online  für Obsidian",
-    "_posts/2013-08-14-blog-post-2.md",
-    "_posts/2014-08-14-blog-post-3.md",
-    "_posts/2015-08-14-blog-post-4.md",
     "Untitled 2.canvas",
     "files/Gestaltung von Geschaeftsstrassen Meran.pdf",
     "files/Gestaltung von Geschäftsstraßen Meran.pdf",
@@ -240,8 +242,6 @@
     "files/Wirksame Geschaeftsstraßengestaltung Dresden.pdf",
     "files/Wochenmaerkte Merkmale und Entwicklungspotenziale.pdf",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Pasted image 20261011193348.png",
     "images/Jürgen_Lembcke_Portrait.jpg",
     "images/Jürgen_Lembcke_Portrait.png",
     "images/profile.png",
