@@ -23,12 +23,14 @@ author_profile: true
 
 {% for tag in collected_tags %}
   {% if tag != "" %}
-  <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag | split: '-' | map: 'capitalize' | join: ' ' }}</h2>
-  {% for pub in all_pubs %}
-    {% if pub.tags contains tag %}
-    - [{{ pub.title }}]({{ pub.url }})
-    {% endif %}
-  {% endfor %}
+## {{ tag | split: '-' | map: 'capitalize' | join: ' ' }}
+
+    {% for pub in all_pubs %}
+      {% if pub.tags contains tag %}
+- [{{ pub.title }}]({{ pub.url }})
+      {% endif %}
+    {% endfor %}
+
   {% endif %}
 {% endfor %}
 
@@ -48,11 +50,13 @@ author_profile: true
 
 {% for tag in collected_tags_talks %}
   {% if tag != "" %}
-  <h2 id="{{ tag | slugify }}-talks" class="archive__subtitle">{{ tag | split: '-' | map: 'capitalize' | join: ' ' }}</h2>
-  {% for talk in all_talks %}
-    {% if talk.tags contains tag %}
-    - [{{ talk.title }}]({{ talk.url }})
-    {% endif %}
-  {% endfor %}
+## {{ tag | split: '-' | map: 'capitalize' | join: ' ' }} (Talks)
+
+    {% for talk in all_talks %}
+      {% if talk.tags contains tag %}
+- [{{ talk.title }}]({{ talk.url }})
+      {% endif %}
+    {% endfor %}
+
   {% endif %}
 {% endfor %}
