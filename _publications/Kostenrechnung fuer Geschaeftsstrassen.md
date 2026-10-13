@@ -2,13 +2,13 @@
 title: "Kostenrechnung für Geschäftsstraßen: Monetäre Bewertungsmethoden für straßenräumliche Reduktionsansätze"
 collection: publications
 category: manuscripts
-permalink: /publication/Kostenrechnung fuer Geschaeftsstraßen
+permalink: /publication/Kostenrechnung fuer Geschaeftsstrassen
 excerpt: ""
 date: 2008-01-01
 venue: DSSW-Projekt. Deutsches Seminar für Städtebau und Wirtschaft
 catalogue_entry: ""
 buy_paper: ""
-paperurl: /files/Kostenrechnung fuer Geschaeftsstraßen.pdf
+paperurl: /files/Kostenrechnung fuer Geschaeftsstrassen.pdf
 citation: "Planersocietät Stadt- und Verkehrsplaner, & scape Landschaftsarchitekten. (2008). Kostenrechnung für Geschäftsstraßen: Monetäre Bewertungsmethoden für straßenräumliche Reduktionsansätze (DSSW-Projekt). Deutsches Seminar für Städtebau und Wirtschaft im Deutschen Verband für Wohnungswesen, Städtebau und Raumordnung e. V."
 ---
 

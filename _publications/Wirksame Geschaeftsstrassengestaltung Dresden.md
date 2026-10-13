@@ -2,13 +2,13 @@
 title: Wirksame Geschäftsstraßengestaltung. Vorstellung des Pilotprojektes
 collection: publications
 category: presentations
-permalink: /publication/Wirksame Geschaeftsstraßengestaltung Dresden
+permalink: /publication/Wirksame Geschaeftsstrassengestaltung Dresden
 excerpt: ""
 date: 2008-11-03
 venue: ""
 catalogue_entry: ""
 buy_paper: ""
-paperurl: /files/Wirksame Geschaeftsstraßengestaltung Dresden.pdf
+paperurl: /files/Wirksame Geschaeftsstrassengestaltung Dresden.pdf
 citation: Lembcke, J., Tack, Achim (2008). Wirksame Geschäftsstraßengestaltung. Vorstellung des Pilotprojektes [Vortrag]. Dresden
 ---
 

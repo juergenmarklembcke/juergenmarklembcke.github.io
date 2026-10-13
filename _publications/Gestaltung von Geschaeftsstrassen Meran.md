@@ -2,13 +2,13 @@
 title: "Die Quadratur des Kreises: Attraktive, sichere, werbewirksame, kostengünstige und beständige Gestaltung von Geschäftsstraßen"
 collection: publications
 category: presentations
-permalink: /publication/Gestaltung von Geschaeftsstraßen Meran
+permalink: /publication/Gestaltung von Geschaeftsstrassen Meran
 excerpt: ""
 date: 2008-07-31
 venue: ""
 catalogue_entry: ""
 buy_paper: ""
-paperurl: /files/Gestaltung von Geschaeftsstraßen Meran.pdf
+paperurl: /files/Gestaltung von Geschaeftsstrassen Meran.pdf
 citation: "Lembcke, J. (2008). Die Quadratur des Kreises: Attraktive, sichere, werbewirksame, kostengünstige und beständige Gestaltung von Geschäftsstraßen [Vortrag]. „After Work Conference, EURAC Research, Institut für Regionalentwicklung und Standortmanagement), Meran, Italien"
 ---
 
