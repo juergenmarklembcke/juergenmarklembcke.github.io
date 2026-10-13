@@ -17,5 +17,8 @@ main:
   - title: "Projects"
     url: /projects/
 
+  - title: "Topics"
+    url: /tags/
+
   - title: "Guide"
     url: /markdown/
