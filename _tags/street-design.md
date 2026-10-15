@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "#street-design"
-permalink: /tags/#street-design/
+permalink: /tags/street-design/
 author_profile: true
 ---
 
