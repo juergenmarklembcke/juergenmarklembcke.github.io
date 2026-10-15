@@ -53,7 +53,7 @@
       {% endfor %}
       {% if all_tags.size > 0 %}
         {% for tag in all_tags %}
-         <li style="margin-top: 0.5em;"><a href="/tags/#{{ tag }}" style="color: #4169E1;">#{{ tag }}</a></li>
+         <li style="margin-top: 0.5em;"><a href="{{ base_path }}/tags/{{ tag }}/" style="color: #4169E1;">#{{ tag }}</a></li>
         {% endfor %}
       {% endif %}
       <!-- Font Awesome and Academicons icons / Academic websites -->
