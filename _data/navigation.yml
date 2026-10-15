@@ -17,5 +17,5 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+   # url: /markdown/
