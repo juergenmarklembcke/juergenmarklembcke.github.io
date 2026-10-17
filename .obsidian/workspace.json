@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_publications/Geschaeftsstrassenraumgestaltung Begriffsbestimmung.md",
+                "file": "_publications/Erreichbarkeit von Innenstaedten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Geschaeftsstrassenraumgestaltung Begriffsbestimmung"
+              "title": "Erreichbarkeit von Innenstaedten"
             }
           }
         ],
@@ -215,11 +215,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "84f0404017e14473",
+  "active": "c3bbc46e6be82d80",
   "lastOpenFiles": [
+    "_publications/Geschaeftsstrassenraumgestaltung Begriffsbestimmung.md",
+    "_publications/Erreichbarkeit von Innenstaedten.md",
     "files/Geschaeftsstrassenraumgestaltung Begriffsbestimmung.pdf",
     "_publications/Kostenrechnung fuer Geschaeftsstrassen.md",
-    "_publications/Geschaeftsstrassenraumgestaltung Begriffsbestimmung.md",
     "files/Geschaeftsstrassenraumgestaltung Funktionalität Attraktivität Effizienz.pdf",
     "_drafts/template 2026 publications 1.md",
     "files/Geschaeftsstrassenraumgestaltung Korbach.pdf",
@@ -253,7 +254,6 @@
     "_pages/tag",
     "Untitled.canvas",
     "Pasted image 20261011193348.png",
-    "_drafts/20260906 JL insert Online  für Obsidian",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "images/Jürgen_Lembcke_Portrait.jpg",
