@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_tags/street-design.md",
-                "mode": "source",
+                "file": "_drafts/tag archive approach AI summary.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "street-design"
+              "title": "tag archive approach AI summary"
+            }
+          },
+          {
+            "id": "84f0404017e14473",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "files/Wirksame Gestaltungsprinzipien fuer Geschaeftsstrassen Dresden.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Wirksame Gestaltungsprinzipien fuer Geschaeftsstrassen Dresden"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.9911880493164
+    "width": 527.9990005493164
   },
   "right": {
     "id": "203f6b390d6c6dd5",
@@ -200,46 +213,47 @@
       "bases:Create new base": false
     }
   },
-  "active": "d256ef9bb1a61683",
+  "active": "84f0404017e14473",
   "lastOpenFiles": [
-    "_publications/Geschaeftsstrassenraumgestaltung Korbach.md",
-    "files/Geschaeftsstrassenraumgestaltung Korbach.pdf",
-    "_tags/street-design.md",
-    "_publications/Gestaltung von Geschaeftsstrassen Meran.md",
-    "_publications/Gestaltungsprinzipien für Geschaeftsstrassen.md",
+    "_publications/Wirksame Gestaltungsprinzipien fuer Geschaeftsstrassen Dresden.md",
     "_publications/Weiterentwicklung innerstaedtischer Nutzungen Teil 1.md",
     "_publications/Wirksame Geschaeftsstrassengestaltung Dresden.md",
-    "_drafts/template 2026 tags 1.md",
-    "_drafts/template 2026 tags.md",
-    "_drafts/tag archive approach AI summary.md",
-    "_tags",
-    "_pages/Topic one.md",
-    "_pages/tag",
-    "_posts/2012-08-14-blog-post-1.md",
-    "Untitled.canvas",
-    "README.md",
-    "Pasted image 20261011193348.png",
-    "2026-10-13.md",
-    "2026-10-11.md",
-    "2003-11-20.md",
     "_publications/Wochenmaerkte Merkmale und Entwicklungspotenziale.md",
     "_publications/Wahrnehmung, Wirkung und Bewertung oeffentlicher Raeume.md",
-    "_publications/Verkehrsverlagerung durch Foerderung des Umweltverbundes.md",
     "_publications/Kostenrechnung fuer Geschaeftsstrassen.md",
-    "_publications/Gute Beispiele im Umgang mit Gestaltungsvorgaben.md",
-    "_publications/Entwicklung eines Standortinformationssystems für Geschaeftsstrassen.md",
-    "_drafts/template 2026 projects.md",
-    "_drafts/template 2026 presentations.md",
-    "_drafts/template 2026 publications 1.md",
-    "_drafts/template 2026 publications.md",
+    "_publications/Kleinräumige Nutzungscluster.md",
+    "_publications/Integration innerstaedtischer Einkaufszentren.md",
+    "_publications/Erfolgreiche Innenstadtentwicklung durch den Ausbau integrierter Standorte.md",
+    "_publications/Geschaeftsstrassenraumgestaltung Korbach.md",
+    "_publications/Entwicklungschancen kleinraeumiger Nutzungscluster.md",
+    "files/Wirksame Gestaltungsprinzipien fuer Geschaeftsstrassen Dresden.pdf",
+    "files/Wirksame Gestaltungsprinzipien für Geschaeftsstrassen Dresden.pdf",
+    "files/Wirksame Geschaeftsstrassengestaltung Dresden.pdf",
+    "_publications/Gestaltung von Geschaeftsstrassen Meran.md",
+    "_publications/template 2026 publications 1 1.md",
+    "_drafts/template 2026 presentations 1.md",
+    "tag archive approach 3.md",
+    "_drafts/tag archive approach AI summary.md",
+    "_drafts/tag archive approach 2 AI summary.md",
+    "_drafts/How i make internal links.md",
+    "_drafts/layout new architecture 2026 10 11.md",
+    "_drafts/layout Prompt about what i am building.md",
+    "_publications/Verkehrsverlagerung durch Foerderung des Umweltverbundes.md",
+    "_publications/Gestaltungsprinzipien für Geschaeftsstrassen.md",
+    "_publications/Kommunikationskonzept für die Wohnstandortinfo.md",
+    "_drafts/layout goal publications.md",
+    "_tags/street-design.md",
+    "files/Geschaeftsstrassenraumgestaltung Korbach.pdf",
+    "_drafts/template 2026 tags 1.md",
+    "_tags",
+    "_pages/tag",
+    "Untitled.canvas",
+    "Pasted image 20261011193348.png",
     "_drafts/20260906 JL insert Online  für Obsidian",
     "Untitled 2.canvas",
     "files/Gestaltung von Geschaeftsstrassen Meran.pdf",
     "files/Gestaltung von Geschäftsstraßen Meran.pdf",
     "files/Wahrnehmung, Wirkung und Bewertung oeffentlicher Raeume.pdf",
-    "files/Entwicklung eines Standortinformationssystems für Geschaeftsstraßen.pdf",
-    "files/Wirksame Geschaeftsstrassengestaltung Dresden.pdf",
-    "files/Geschaeftsstraßenraumgestaltung Korbach.pdf",
     "Untitled 1.canvas",
     "images/Jürgen_Lembcke_Portrait.jpg",
     "images/Jürgen_Lembcke_Portrait.png",
