@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "_publications/all lights show green.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -217,6 +217,7 @@
   },
   "active": "84f0404017e14473",
   "lastOpenFiles": [
+    "files/all lights show green.pdf",
     "images/all-lights-show-green.png",
     "images/all-lights-show-green-1.png",
     "images/exibition panel All lights show green.pdf",
@@ -264,7 +265,6 @@
     "images/Jürgen Lembcke .jpg",
     "images/favicon-512x512.png",
     "images/favicon-192x192.png",
-    "images/favicon-32x32.png",
-    "images/favicon.svg"
+    "images/favicon-32x32.png"
   ]
 }
