@@ -1,7 +1,8 @@
 ---
 title: |-
-  Ostdeutschland – Alle Zeichen stehen auf Grün! Eine Analyse des Standortes Ostdeutschland im europäischen Vergleich
-  East Germany - All Lights Show Green: An analysis of the location East Germany in a Europe-wide comparison
+  Ostdeutschland – Alle Zeichen stehen auf Grün! Eine Analyse des Standortes Ostdeutschland im europäischen Vergleich.
+
+  East Germany - All Lights Show Green: An analysis of the location East Germany in a Europe-wide comparison.
 collection: publications
 category: books
 permalink: /publication/all lights show green
