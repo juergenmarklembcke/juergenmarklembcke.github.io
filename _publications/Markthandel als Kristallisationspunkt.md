@@ -8,7 +8,7 @@ date: 2008-01-01
 venue: DSSW Materialien. Deutsches Seminar für Städtebau und Wirtschaft
 catalogue_entry: ""
 buy_paper: ""
-paperurl: /files/Markthandel als Kristallisationspunkt
+paperurl: /files/Markthandel als Kristallisationspunkt.pdf
 citation: "Poppitz, M. (2008). Markthandel als Kristallisationspunkt von Unternehmertum und lokaler Wirtschaft: Beispiele und Förderansätze aus europäischen Städten. Deutsches Seminar für Städtebau und Wirtschaft im Deutschen Verband für Wohnungswesen, Städtebau und Raumordnung e. V."
 tags:
   - local-economics
