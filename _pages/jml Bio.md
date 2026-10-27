@@ -13,3 +13,7 @@ Auf diesen Seiten habe ich meine Publikationen zu unterschiedlichen Themen, insb
 Repository for papers on local governance, retail and transport development
 
 On these pages, I have compiled my publications on various topics, but in particular on local governance, retail and transport development. This also includes those listed separately where, as Head of the German Institute for Town Centre Development, I contributed ideas that colleagues developed or that we outsourced to subcontractors. Everything was developed and worked on as a team. One theme that runs through my work is the design of public spaces, because, in my view, purely functional spaces do not function. The spaces we create in our towns and cities need beauty, as they are the spaces we create and live in. Beautiful spaces also function better, are more effective and generate vitality, turnover and community. Furthermore, beautiful spaces are usually uncluttered and are therefore simpler, more comfortable and more sustainable.
+
+Viele meiner Schriften sind unter meinem Namen "Jürgen Lembcke" publiziert.
+Many of my writings have been published under my name, ‘Jürgen Lembcke’.
+
