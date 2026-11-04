@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ef4df06629359c80",
+        "id": "62c2f1a8fc0f3eb2",
         "type": "tabs",
         "children": [
           {
-            "id": "f3c6312b6020b915",
+            "id": "adc3ad966ef2b53f",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "images/all-lights-show-green.png"
-              },
-              "icon": "lucide-image",
-              "title": "all-lights-show-green"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -198,11 +196,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "f3c6312b6020b915",
+  "active": "adc3ad966ef2b53f",
   "lastOpenFiles": [
-    "_publications/all lights show green.md",
+    "images/picspublications/All.md",
+    "_publications/All lights show green.md",
+    "files/All lights show green.pdf",
+    "images/picspublications/All lights show green.png",
+    "images/picspublications/all-lights-show-green.png",
+    "_drafts/Picture display line example in template 2026 publications 2.md",
+    "images/picspublications",
+    "_drafts/template 2026 publications.md",
+    "_drafts/template 2026 presentations.md",
     "_publications/Gefallenswirkung von Geschaeftsstrassen.md",
-    "images/all-lights-show-green.png",
     "_publications/Kostenrechnung fuer Geschaeftsstrassen.md",
     "files/Kostenrechnung fuer Geschaeftsstrassen.pdf",
     "files/Gefallenswirkung von Geschaeftsstrassen.pdf",
@@ -231,12 +236,7 @@
     "_pages/sitemap.md",
     "_pages/non-menu-page.md",
     "_pages/markdown.md",
-    "files/Erreichbarkeit von Innenstaedten.pdf",
-    "files/Parken in der Innenstadt.pdf",
     "_publications/Conveniencelaeden für kleine Bahnhoefe.md",
-    "_drafts/template 2026 publications 1.md",
-    "_publications/Der Markthandel in ostdeutschen Innenstaedten.md",
-    "_publications/Geschaeftsstrassenraumgestaltung Korbach.md",
     "images/all-lights-show-green-1.png",
     "Untitled.canvas",
     "Pasted image 20261011193348.png",
@@ -246,7 +246,6 @@
     "images/Jürgen_Lembcke_Portrait.png",
     "images/profile.png",
     "images/Jürgen Lembcke .jpg",
-    "images/favicon-512x512.png",
-    "images/favicon-192x192.png"
+    "images/favicon-512x512.png"
   ]
 }
