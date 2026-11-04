@@ -14,4 +14,3 @@ tags:
   - street-design
 ---
 
-![[Pasted image 20261104195048.png]]

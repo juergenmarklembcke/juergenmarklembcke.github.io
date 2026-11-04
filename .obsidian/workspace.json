@@ -11,14 +11,12 @@
             "id": "f3c6312b6020b915",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "_publications/Gefallenswirkung von Geschaeftsstrassen.md",
-                "mode": "source",
-                "source": false
+                "file": "images/all-lights-show-green.png"
               },
-              "icon": "lucide-file",
-              "title": "Gefallenswirkung von Geschaeftsstrassen"
+              "icon": "lucide-image",
+              "title": "all-lights-show-green"
             }
           }
         ]
@@ -204,6 +202,9 @@
   "lastOpenFiles": [
     "_publications/all lights show green.md",
     "_publications/Gefallenswirkung von Geschaeftsstrassen.md",
+    "images/all-lights-show-green.png",
+    "_publications/Kostenrechnung fuer Geschaeftsstrassen.md",
+    "files/Kostenrechnung fuer Geschaeftsstrassen.pdf",
     "files/Gefallenswirkung von Geschaeftsstrassen.pdf",
     "Pasted image 20261104195048.png",
     "_publications/Nutzungsmischung als Schluesselfaktor.md",
@@ -233,13 +234,9 @@
     "files/Erreichbarkeit von Innenstaedten.pdf",
     "files/Parken in der Innenstadt.pdf",
     "_publications/Conveniencelaeden für kleine Bahnhoefe.md",
-    "files/Convenienceladen für kleine Bahnhoefe.pdf",
     "_drafts/template 2026 publications 1.md",
     "_publications/Der Markthandel in ostdeutschen Innenstaedten.md",
     "_publications/Geschaeftsstrassenraumgestaltung Korbach.md",
-    "_publications/Traegerschaft und Finanzierung von Regionalbahnhoefen.md",
-    "_publications/Weiterentwicklung innerstaedtischer Nutzungen Teil 2.md",
-    "images/all-lights-show-green.png",
     "images/all-lights-show-green-1.png",
     "Untitled.canvas",
     "Pasted image 20261011193348.png",
