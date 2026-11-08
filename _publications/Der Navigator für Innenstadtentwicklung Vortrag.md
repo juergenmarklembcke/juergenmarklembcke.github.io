@@ -2,7 +2,7 @@
 title: Der Navigator für Innenstadtentwicklung
 collection: publications
 category: presentations
-permalink: /publication/YYYY-MM-DD-slug-here
+permalink: /publication/Der Navigator für Innenstadtentwicklung Vortrag
 excerpt: ""
 date: 2008-10-15
 venue: Informationsveranstaltung zu Maßnahmen zur Entwicklung der Innenstadt, IHK zu Köln
