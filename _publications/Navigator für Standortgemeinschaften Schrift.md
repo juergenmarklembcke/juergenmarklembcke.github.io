@@ -13,5 +13,4 @@ citation: "Wiezorek, E., & Leonhardt, K.- U. (2006). Navigator für Standortgeme
 tags:
   - local-economics
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+![Der Navigator für Innenstadtentwicklung](/images/picspublications/Der Navigator für Innenstadtentwicklung Schrift.jpg)
