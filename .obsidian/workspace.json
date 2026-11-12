@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_publications/Der Navigator für Innenstadtentwicklung Vortrag.md",
+                "file": "_publications/Navigator für Standortgemeinschaften Schrift.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Der Navigator für Innenstadtentwicklung Vortrag"
+              "title": "Navigator für Standortgemeinschaften Schrift"
             }
           }
         ]
@@ -202,9 +202,13 @@
   },
   "active": "cbfd364496742978",
   "lastOpenFiles": [
+    "files/Navigator für Standortgemeinschaften Schrift.pdf",
+    "files/DSSW-Navigator Leitfaden.pdf",
+    "_publications/Navigator für Innenstadtentwicklung Vortrag.md",
+    "files/Navigator für Innenstadtentwicklung Vortrag.pdf",
+    "_publications/Navigator für Standortgemeinschaften Schrift.md",
     "_publications/All lights show green.md",
     "files/All lights show green.pdf",
-    "_publications/Der Navigator für Innenstadtentwicklung Vortrag.md",
     "images/picspublications/All.md",
     "images/picspublications/Der Navigator für Innenstadtentwicklung Vortrag.jpg",
     "images/picspublications/Standortnavigator.jpg",
@@ -233,10 +237,8 @@
     "_publications/Strassenmoeblierung als Planungsaufgabe.md",
     "images/bio-photo-2.jpg",
     "images/bio-photo.jpg",
-    "files/Strassenmoeblierung als Planungsaufgabe.pdf",
     "_publications/Looking Closer at Data.md",
     "_publications/Integration innerstaedtischer Einkaufszentren.md",
-    "files/lu114191oumr.tmp",
     "images/picspublications/All lights show green.png",
     "images/picspublications/all-lights-show-green.png",
     "_drafts/Picture display line example in template 2026 publications 2.md",
@@ -248,7 +250,6 @@
     "_publications/Parken in der Innenstadt.md",
     "_publications/Erreichbarkeit von Innenstaedten.md",
     "_publications/Business Improvement Districts Erste Schritte.md",
-    "_publications/Kleinraeumige Nutzungscluster.md",
-    "_publications/Wochenmaerkte Merkmale und Entwicklungspotenziale.md"
+    "_publications/Kleinraeumige Nutzungscluster.md"
   ]
 }
