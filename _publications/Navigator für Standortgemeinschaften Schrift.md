@@ -13,4 +13,4 @@ citation: "Wiezorek, E., & Leonhardt, K.- U. (2006). Navigator für Standortgeme
 tags:
   - local-economics
 ---
-![Der Navigator für Innenstadtentwicklung](/images/picspublications/Der Navigator für Innenstadtentwicklung Schrift.jpg)
+![Der Navigator für Innenstadtentwicklung](/images/picspublications/Navigator für Standortgemeinschaften Schrift.jpg)

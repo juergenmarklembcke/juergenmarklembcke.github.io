@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "83bbf8363f3f2b4c",
+        "id": "03dbbff41c61a8fd",
         "type": "tabs",
         "children": [
           {
-            "id": "cbfd364496742978",
+            "id": "9dec8bb0d65ba9aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "_publications/Navigator für Standortgemeinschaften Schrift.md",
-                "mode": "preview",
-                "source": true
+                "file": "images/picspublications/Navigator für Innenstadtentwicklung Vortrag.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Navigator für Standortgemeinschaften Schrift"
+              "icon": "lucide-image",
+              "title": "Navigator für Innenstadtentwicklung Vortrag"
             }
           }
         ]
@@ -200,18 +198,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "cbfd364496742978",
+  "active": "9dec8bb0d65ba9aa",
   "lastOpenFiles": [
-    "_publications/Navigator für Innenstadtentwicklung Vortrag.md",
-    "_publications/Navigator für Standortgemeinschaften Schrift.md",
     "images/picspublications/Navigator für Standortgemeinschaften Schrift.jpg",
+    "images/picspublications/Navigator für Innenstadtentwicklung Vortrag.jpg",
+    "_publications/Navigator für Innenstadtentwicklung Vortrag.md",
+    "files/Navigator für Innenstadtentwicklung Vortrag.pdf",
+    "_publications/Navigator für Standortgemeinschaften Schrift.md",
     "images/picspublications/2008-massnahmenkreis.jpg",
     "images/2008-massnahmenkreis.jpg",
     "images/themes/2008-massnahmenkreis.jpg",
     "files/Navigator für Standortgemeinschaften Schrift.pdf",
     "files/DSSW Navigator fuer Standortgemeinschaften - Leitfaden.pdf",
     "files/DSSW-Navigator Leitfaden.pdf",
-    "files/Navigator für Innenstadtentwicklung Vortrag.pdf",
     "_publications/All lights show green.md",
     "files/All lights show green.pdf",
     "images/picspublications/All.md",
@@ -236,7 +235,6 @@
     "_drafts/tag archive approach 3.md",
     "Pasted image 20261011193348.png",
     "images/profile.png",
-    "images/500x300.png",
     "_publications/Strassenmoeblierung als Planungsaufgabe.md",
     "_publications/Looking Closer at Data.md",
     "_publications/Integration innerstaedtischer Einkaufszentren.md",

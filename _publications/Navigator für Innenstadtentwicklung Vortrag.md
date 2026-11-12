@@ -13,4 +13,4 @@ citation: Lembcke, J. (2008, 15. Oktober). Der Navigator für Innenstadtentwickl
 tags:
   - local-economics
 ---
-![Der Navigator für Innenstadtentwicklung](/images/picspublications/Der Navigator für Innenstadtentwicklung Vortrag.jpg)
+![Der Navigator für Innenstadtentwicklung](/images/picspublications/Navigator für Innenstadtentwicklung Vortrag.jpg)
