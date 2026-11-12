@@ -7,8 +7,8 @@ excerpt: ""
 date: 2005-01-01
 venue: DSSW Schriften. Deutsches Seminar für Städtebau und Wirtschaft
 catalogue_entry: https://d-nb.info/980029570
-buy_paper: ""
-paperurl: /files/Weiterentwicklung innerstaedtischer Nutzungen Teil 1.pdf
+buy_paper: https://www.baufachinformation.de/weiterentwicklung-innerstaedtischer-nutzungen-tl-1-kopplung-von-einzelhandel-dienstleistung-freizeit-und-produzierendem-gewe/230040?variant=dv_42E
+paperurl:
 citation: "Lembcke, J., Liepe, S., Poppitz, M., & Walter, N. (2005). Weiterentwicklung innerstädtischer Nutzungen: Teil 1 — Kopplung von Einzelhandel, Dienstleistung, Freizeit und produzierendem Gewerbe. Deutsches Seminar für Städtebau und Wirtschaft im Deutschen Verband für Wohnungswesen, Städtebau und Raumordnung e. V."
 tags:
   - local-economics

@@ -11,12 +11,14 @@
             "id": "9dec8bb0d65ba9aa",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/picspublications/Navigator für Innenstadtentwicklung Vortrag.jpg"
+                "file": "_publications/Verkehrsverlagerung durch Foerderung des Umweltverbundes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Navigator für Innenstadtentwicklung Vortrag"
+              "icon": "lucide-file",
+              "title": "Verkehrsverlagerung durch Foerderung des Umweltverbundes"
             }
           }
         ]
@@ -200,8 +202,20 @@
   },
   "active": "9dec8bb0d65ba9aa",
   "lastOpenFiles": [
-    "images/picspublications/Navigator für Standortgemeinschaften Schrift.jpg",
+    "_publications/Parken in der Innenstadt.md",
+    "_publications/Erreichbarkeit von Innenstaedten.md",
+    "_publications/Wochenmaerkte Merkmale und Entwicklungspotenziale.md",
+    "_publications/Weiterentwicklung innerstaedtischer Nutzungen Teil 1.md",
+    "_publications/Weiterentwicklung innerstaedtischer Nutzungen Teil 2.md",
+    "_publications/Integration innerstaedtischer Einkaufszentren.md",
+    "_publications/Gestaltungsprinzipien für Geschaeftsstrassen.md",
+    "_publications/Nahversorgung als Basis der Zentrenbildung.md",
+    "_publications/Kleinraeumige Nutzungscluster.md",
+    "_publications/Nutzungsmischung als Schluesselfaktor.md",
+    "files/Nahversorgung als Basis der Zentrenbildung.pdf",
+    "_publications/Verkehrsverlagerung durch Foerderung des Umweltverbundes.md",
     "images/picspublications/Navigator für Innenstadtentwicklung Vortrag.jpg",
+    "images/picspublications/Navigator für Standortgemeinschaften Schrift.jpg",
     "_publications/Navigator für Innenstadtentwicklung Vortrag.md",
     "files/Navigator für Innenstadtentwicklung Vortrag.pdf",
     "_publications/Navigator für Standortgemeinschaften Schrift.md",
@@ -220,11 +234,9 @@
     "files/lu5589s1eh.tmp",
     "files/lu5589s1eb.tmp",
     "files/Der Navigator für Innenstadtentwicklung Vortrag.ppt",
-    "files/Präsentation Lembcke IHK Köln.ppt",
     "_drafts/template 2026 publications 1.md",
     "_publications/Geschaeftsstrassenraumgestaltung Begriffsbestimmung.md",
     "_publications/Gute Beispiele im Umgang mit Gestaltungsvorgaben.md",
-    "_publications/Gestaltungsprinzipien für Geschaeftsstrassen.md",
     "2003-11-20.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
@@ -237,16 +249,7 @@
     "images/profile.png",
     "_publications/Strassenmoeblierung als Planungsaufgabe.md",
     "_publications/Looking Closer at Data.md",
-    "_publications/Integration innerstaedtischer Einkaufszentren.md",
     "_drafts/Picture display line example in template 2026 publications 2.md",
-    "_drafts/template 2026 publications.md",
-    "_drafts/template 2026 presentations.md",
-    "_publications/Gefallenswirkung von Geschaeftsstrassen.md",
-    "_publications/Kostenrechnung fuer Geschaeftsstrassen.md",
-    "_publications/Nutzungsmischung als Schluesselfaktor.md",
-    "_publications/Parken in der Innenstadt.md",
-    "_publications/Erreichbarkeit von Innenstaedten.md",
-    "_publications/Business Improvement Districts Erste Schritte.md",
-    "_publications/Kleinraeumige Nutzungscluster.md"
+    "_drafts/template 2026 publications.md"
   ]
 }

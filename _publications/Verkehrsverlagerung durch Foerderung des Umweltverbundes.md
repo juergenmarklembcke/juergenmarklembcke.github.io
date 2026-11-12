@@ -9,7 +9,7 @@ venue: Mobilität und Kommunikation in den Agglomerationen von Heute und Morgen 
 catalogue_entry: https://d-nb.info/941823229
 buy_paper: ""
 paperurl:
-citation: Hoppe, D., Lembcke, J., & Wollmann, H. (1994). Verkehrsverlagerung durch Förderung des Umweltverbundes (ÖPNV, Rad, zu Fuß) und restriktive Maßnahmen gegenüber dem motorisierten Individualverkehr. In D. Sauberzweig & D. Apel (Hrsg.), Mobilität und Kommunikation in den Agglomerationen von heute und morgen (Gottlieb-Daimler- und Karl-Benz-Stiftung). Ernst und Sohn.
+citation: "Hoppe, D., Lembcke, J., & Wollmann, H. (1994). Verkehrsverlagerung durch Förderung des Umweltverbundes (ÖPNV, Rad, zu Fuß) und restriktive Maßnahmen gegenüber dem motorisierten Individualverkehr. In D. Sauberzweig & D. Apel (Hrsg.), Mobilität und Kommunikation in den Agglomerationen von heute und morgen: Berichte aus den Teilprojekten, Bd. 3., Gestaltungsfelder und Lösungsansätze (Gottlieb-Daimler- und Karl-Benz-Stiftung). Ernst und Sohn."
 tags:
   - traffic
 ---

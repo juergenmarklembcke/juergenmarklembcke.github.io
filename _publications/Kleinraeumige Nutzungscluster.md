@@ -7,8 +7,8 @@ excerpt: ""
 date: 2008-01-01
 venue: DSSW Schriften. Deutsches Seminar für Städtebau und Wirtschaft
 catalogue_entry: " https://d-nb.info/991819845"
-buy_paper: ""
-paperurl: /files/Kleinraeumige Nutzungscluster.pdf
+buy_paper: https://www.baufachinformation.de/kleinraeumige-nutzungscluster-identifikation-und-analyse-kleinraeumiger-nutzungscluster-als-ausgangspunkt-zur-foerderung-inn/230180?variant=dv_51E
+paperurl:
 citation: Heiß, E., Wiemken, T., & Lembcke, J. (2008). Kleinräumige Nutzungscluster – Identifikation und Analyse kleinräumiger Nutzungscluster als Ausgangspunkt zur Förderung innerstädtischer Standorte. Deutsches Seminar für Städtebau und Wirtschaft im Deutschen Verband für Wohnungswesen, Städtebau und Raumordnung e. V.
 tags:
   - local-economics

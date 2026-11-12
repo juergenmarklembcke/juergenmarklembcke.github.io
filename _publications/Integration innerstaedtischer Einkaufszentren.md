@@ -7,7 +7,7 @@ excerpt: ""
 date: 2008-01-01
 venue: DSSW Schriften. Deutsches Seminar für Städtebau und Wirtschaft
 catalogue_entry: https://d-nb.info/991819861
-buy_paper: https://www.amazon.de/Integration-innerst%C3%A4dtischer-Einkaufszentren-Integrationskriterien-Vertr%C3%A4glichkeitsgutachten/dp/3937162380
+buy_paper: https://www.baufachinformation.de/integration-innerstaedtischer-einkaufszentren-qualitative-integrationskriterien-und-steuerung-von-vertraeglichkeitsgutachten/230046?variant=dv_46E
 paperurl: ""
 citation: "Beckmann, R. M., Lembcke, J., von Schlippenbach, U., & Wiemken, T. (2008). Integration innerstädtischer Einkaufszentren: Qualitative Integrationskriterien und Steuerung von Verträglichkeitsgutachten. Deutsches Seminar für Städtebau und Wirtschaft im Deutschen Verband für Wohnungswesen, Städtebau und Raumordnung e. V."
 tags:
