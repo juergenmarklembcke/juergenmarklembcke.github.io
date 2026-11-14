@@ -28,8 +28,8 @@
               "type": "markdown",
               "state": {
                 "file": "_publications/Markets as city and economic development potential.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Markets as city and economic development potential"
@@ -217,9 +217,11 @@
   },
   "active": "5981638b4032df96",
   "lastOpenFiles": [
-    "_drafts/Layout and Entwicklung Webpage/Picture display line example in template 2026 publications 2.md",
-    "_publications/Markets as city and economic development potential.md",
+    "_publications/All lights show green.md",
+    "files/All lights show green.pdf",
     "images/picspublications/Markets as city and economic development potential.png",
+    "_publications/Markets as city and economic development potential.md",
+    "_drafts/Layout and Entwicklung Webpage/Picture display line example in template 2026 publications 2.md",
     "_drafts/Layout and Entwicklung Webpage/Citation Works with Brave.md",
     "_drafts/Layout and Entwicklung Webpage/Citation Style.md",
     "files/Markets as city and economic development potential.pdf",
@@ -236,7 +238,6 @@
     "_publications/Einbindung von Immobilieneigentuemern Vortrag.md",
     "files/2008-market-trade-ungeschützt.pdf",
     "files/Einbindung von Immobilieneigentuemern Vortrag.pdf",
-    "files/lu169852kuas.tmp",
     "_publications/Standortentwicklung durch Immobilieneigentuemer.md",
     "_drafts/template 2026 presentations 1.md",
     "_publications/Business Improvement Districts Erste Schritte.md",
