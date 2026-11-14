@@ -11,14 +11,12 @@
             "id": "9dec8bb0d65ba9aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "_publications/Verkehrsverlagerung durch Foerderung des Umweltverbundes.md",
-                "mode": "source",
-                "source": false
+                "file": "files/Standortentwicklung durch Immobilieneigentuemer.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Verkehrsverlagerung durch Foerderung des Umweltverbundes"
+              "icon": "lucide-file-text",
+              "title": "Standortentwicklung durch Immobilieneigentuemer"
             }
           }
         ]
@@ -202,6 +200,10 @@
   },
   "active": "9dec8bb0d65ba9aa",
   "lastOpenFiles": [
+    "_publications/Standortentwicklung durch Immobilieneigentuemer.md",
+    "files/Standortentwicklung durch Immobilieneigentuemer.pdf",
+    "files/Einbindung Eigentuemer Vortrag.pdf",
+    "_publications/Verkehrsverlagerung durch Foerderung des Umweltverbundes.md",
     "_publications/Parken in der Innenstadt.md",
     "_publications/Erreichbarkeit von Innenstaedten.md",
     "_publications/Wochenmaerkte Merkmale und Entwicklungspotenziale.md",
@@ -213,7 +215,6 @@
     "_publications/Kleinraeumige Nutzungscluster.md",
     "_publications/Nutzungsmischung als Schluesselfaktor.md",
     "files/Nahversorgung als Basis der Zentrenbildung.pdf",
-    "_publications/Verkehrsverlagerung durch Foerderung des Umweltverbundes.md",
     "images/picspublications/Navigator für Innenstadtentwicklung Vortrag.jpg",
     "images/picspublications/Navigator für Standortgemeinschaften Schrift.jpg",
     "_publications/Navigator für Innenstadtentwicklung Vortrag.md",
@@ -232,8 +233,6 @@
     "images/picspublications/Standortnavigator.jpg",
     "files/Der Navigator für Innenstadtentwicklung Vortrag.pdf",
     "files/lu5589s1eh.tmp",
-    "files/lu5589s1eb.tmp",
-    "files/Der Navigator für Innenstadtentwicklung Vortrag.ppt",
     "_drafts/template 2026 publications 1.md",
     "_publications/Geschaeftsstrassenraumgestaltung Begriffsbestimmung.md",
     "_publications/Gute Beispiele im Umgang mit Gestaltungsvorgaben.md",
@@ -248,8 +247,6 @@
     "Pasted image 20261011193348.png",
     "images/profile.png",
     "_publications/Strassenmoeblierung als Planungsaufgabe.md",
-    "_publications/Looking Closer at Data.md",
-    "_drafts/Picture display line example in template 2026 publications 2.md",
-    "_drafts/template 2026 publications.md"
+    "_publications/Looking Closer at Data.md"
   ]
 }
