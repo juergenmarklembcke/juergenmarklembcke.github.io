@@ -13,7 +13,7 @@ citation: "Poppitz, M. (2008). Market trade as a focal point of entrepreneurship
 tags:
   - local-economics
 ---
-![The Mercat de Santa Caterina in Barcelona](Market trade as a focal point.jpg)
+![The Mercat de Santa Caterina in Barcelona](/images/picspublications/Market trade as a focal point.jpg)
 The Mercat de Santa Caterina in Barcelona
 
 This is the English translation by Dunya Bouchi of the German paper "Markthandel als Kristallisationspunkt von Unternehmertum und lokaler Wirtschaft: Beispiele und Förderansätze aus europäischen Städten" 
