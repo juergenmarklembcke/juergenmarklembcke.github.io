@@ -10,7 +10,8 @@ catalogue_entry: ""
 buy_paper: ""
 paperurl: /files/Market trade as a focal point.pdf
 citation: "Poppitz, M. (2008). Market trade as a focal point of entrepreneurship and local economy: Examples and support initiatives from European cities. (Übersetzung Dunya Bouchi) Deutsches Seminar für Städtebau und Wirtschaft im Deutschen Verband für Wohnungswesen, Städtebau und Raumordnung e. V."
-tags: []
+tags:
+  - local-economics
 ---
 ![The Mercat de Santa Caterina in Barcelona](Market trade as a focal point.jpg)
 The Mercat de Santa Caterina in Barcelona
