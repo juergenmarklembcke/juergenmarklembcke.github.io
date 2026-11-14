@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Einbindung von Immobilieneigentuemern Vortrag"
             }
+          },
+          {
+            "id": "5981638b4032df96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_publications/Market trade as a focal point.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Market trade as a focal point"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,15 +215,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "9dec8bb0d65ba9aa",
+  "active": "5981638b4032df96",
   "lastOpenFiles": [
+    "images/picspublications/Market trade as a focal point",
+    "_drafts/Layout and Entwicklung Webpage/Picture display line example in template 2026 publications 2.md",
+    "_drafts/Layout and Entwicklung Webpage/How i make internal links.md",
+    "_publications/Market trade as a focal point.md",
+    "images/picspublications/Mercato Barcelona",
+    "images/picspublications/lu47937qbd.tmp",
+    "_publications/Markthandel als Kristallisationspunkt.md",
+    "files/Market trade as a focal point.pdf",
+    "_drafts/template 2026 publications 1.md",
+    "_publications/Einbindung von Immobilieneigentuemern Vortrag.md",
+    "files/2008-market-trade-ungeschützt.pdf",
     "files/Einbindung von Immobilieneigentuemern Vortrag.pdf",
     "files/lu169852kuas.tmp",
     "files/Einbindung von Immobilieneigentuemern Vortrag.ppt",
     "files/Vortrag BIDs Erfurt -jl150903.ppt",
     "_publications/Standortentwicklung durch Immobilieneigentuemer.md",
-    "_publications/Einbindung von Immobilieneigentuemern Vortrag.md",
-    "_drafts/template 2026 publications 1.md",
     "_drafts/template 2026 presentations 1.md",
     "_publications/Business Improvement Districts Erste Schritte.md",
     "_drafts/Layout and Entwicklung Webpage/2026 10 05.md",
@@ -217,32 +241,23 @@
     "_drafts/Layout and Entwicklung Webpage/tag archive approach 2 AI summary.md",
     "_drafts/Layout and Entwicklung Webpage/tag archive approach 3.md",
     "_drafts/post-draft.md",
-    "_drafts/Layout and Entwicklung Webpage/Picture display line example in template 2026 publications 2.md",
     "_drafts/Layout and Entwicklung Webpage/layout new architecture 2026 10 11.md",
     "_drafts/Layout and Entwicklung Webpage/layout goal publications.md",
-    "_drafts/Layout and Entwicklung Webpage/How i make internal links.md",
     "_drafts/Layout and Entwicklung Webpage/Citation Style.md",
     "_drafts/Layout and Entwicklung Webpage/Zitieren.md",
     "_drafts/Layout and Entwicklung Webpage",
     "files/Standortentwicklung durch Immobilieneigentuemer.pdf",
-    "files/Einbindung Eigentuemer Vortrag.pdf",
     "_publications/Verkehrsverlagerung durch Foerderung des Umweltverbundes.md",
     "_publications/Parken in der Innenstadt.md",
     "_publications/Erreichbarkeit von Innenstaedten.md",
     "_publications/Wochenmaerkte Merkmale und Entwicklungspotenziale.md",
     "_publications/Weiterentwicklung innerstaedtischer Nutzungen Teil 1.md",
     "_publications/Weiterentwicklung innerstaedtischer Nutzungen Teil 2.md",
-    "_publications/Integration innerstaedtischer Einkaufszentren.md",
-    "_publications/Gestaltungsprinzipien für Geschaeftsstrassen.md",
-    "files/Nahversorgung als Basis der Zentrenbildung.pdf",
     "images/picspublications/Navigator für Innenstadtentwicklung Vortrag.jpg",
     "images/picspublications/Navigator für Standortgemeinschaften Schrift.jpg",
-    "files/Navigator für Innenstadtentwicklung Vortrag.pdf",
     "images/picspublications/2008-massnahmenkreis.jpg",
     "images/2008-massnahmenkreis.jpg",
     "images/themes/2008-massnahmenkreis.jpg",
-    "files/Navigator für Standortgemeinschaften Schrift.pdf",
-    "files/DSSW Navigator fuer Standortgemeinschaften - Leitfaden.pdf",
     "images/picspublications/Der Navigator für Innenstadtentwicklung Vortrag.jpg",
     "images/picspublications/Standortnavigator.jpg",
     "Untitled 2.canvas",
