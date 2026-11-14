@@ -9,7 +9,7 @@ venue: Deutscher Handelsimmobilienkongress, Messe Köln
 catalogue_entry: ""
 buy_paper: ""
 paperurl: /files/Standortentwicklung durch Immobilieneigentuemer.pdf
-citation: Heerde, S., & Lembcke, J. (2005, April 5–6). Standortentwicklung durch Immobilieneigentümer — Wertstabilität von Immobilien durch Aufwertung innerstädtischer Geschäftsstraßen [Vortrag]. Deutscher Handelsimmobilienkongress, Messe Köln, Köln.
+citation: Heerde, S., & Lembcke, J. (5./6. April). Standortentwicklung durch Immobilieneigentümer — Wertstabilität von Immobilien durch Aufwertung innerstädtischer Geschäftsstraßen [Vortrag]. Deutscher Handelsimmobilienkongress, Messe Köln, Köln.
 tags:
   - local-economics
 ---
