@@ -9,7 +9,7 @@ venue: Bock, S., Hinzen, A., & Libbe, J. (Eds.), Nachhaltiges Flächenmanagement
 catalogue_entry: https://d-nb.info/1009829661
 buy_paper: https://www.amazon.de/-/en/Nachhaltiges-Fl%C3%A4chenmanagement-Handbuch-Ergebnisse-REFINA-Forschung/dp/3881184899
 paperurl: /files/Kommunikationskonzept für die Wohnstandortinfo.pdf
-citation: Lembcke, J., & Liepe, S. (2011). Kommunikationskonzept für die Wohnstandortinfo. Wie für ein schwieriges Thema Marketing gemacht werden kann. In S. Bock, A. Hinzen, & J. Libbe (Eds.), Nachhaltiges Flächenmanagement – Ein Handbuch für die Praxis. Deutsches Institut für Urbanistik.
+citation: Lembcke, J., Liepe, S. (2011). Kommunikationskonzept für die Wohnstandortinfo. Wie für ein schwieriges Thema Marketing gemacht werden kann. In S. Bock, A. Hinzen, & J. Libbe (Eds.), Nachhaltiges Flächenmanagement – Ein Handbuch für die Praxis. Deutsches Institut für Urbanistik.
 tags: []
 ---
 

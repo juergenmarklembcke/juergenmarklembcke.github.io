@@ -12,7 +12,7 @@ venue: DSSW Materialien. Deutsches Seminar für Städtebau und Wirtschaft
 catalogue_entry: ""
 buy_paper: ""
 paperurl: /files/All lights show green.pdf
-citation: Lembcke, J., & Walter, N. (2004). Ostdeutschland – Alle Zeichen stehen auf Grün! Eine Analyse des Standortes Ostdeutschland im europäischen Vergleich (DSSW-Materialien). Deutsches Seminar für Städtebau und Wirtschaft im Deutschen Verband für Wohnungswesen, Städtebau und Raumordnung e. V.
+citation: Lembcke, J., Walter, N. (2004). Ostdeutschland – Alle Zeichen stehen auf Grün! Eine Analyse des Standortes Ostdeutschland im europäischen Vergleich (DSSW-Materialien). Deutsches Seminar für Städtebau und Wirtschaft im Deutschen Verband für Wohnungswesen, Städtebau und Raumordnung e. V.
 tags: []
 ---
 ![All Lights Show Green exhibition panel](/images/picspublications/All lights show green.png)

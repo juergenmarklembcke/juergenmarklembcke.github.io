@@ -9,7 +9,7 @@ venue: DSSW Schriften. Deutsches Seminar für Städtebau und Wirtschaft
 catalogue_entry: https://d-nb.info/982696078
 buy_paper: ""
 paperurl: /files/Navigator für Standortgemeinschaften Schrift.pdf
-citation: "Wiezorek, E., & Leonhardt, K.- U. (2006). Navigator für Standortgemeinschaften: Handlungs- und Maßnahmenkatalog zur Entwicklung von Geschäftsstraßen. Deutsches Seminar für Städtebau und Wirtschaft im Deutschen Verband für Wohnungswesen, Städtebau und Raumordnung e. V."
+citation: "Wiezorek, E., Leonhardt, K.- U. (2006). Navigator für Standortgemeinschaften: Handlungs- und Maßnahmenkatalog zur Entwicklung von Geschäftsstraßen. Deutsches Seminar für Städtebau und Wirtschaft im Deutschen Verband für Wohnungswesen, Städtebau und Raumordnung e. V."
 tags:
   - local-economics
 ---

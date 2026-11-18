@@ -9,7 +9,7 @@ venue: DSSW Schriften. Deutsches Seminar für Städtebau und Wirtschaft
 catalogue_entry: ""
 buy_paper: https://www.baufachinformation.de/erreichbarkeit-von-innenstaedten-dssw-leitfaden/230011?variant=dv_25E
 paperurl: ""
-citation: "Baier, R., & Heinz, H. (2000). Erreichbarkeit von Innenstädten: Leitfaden für die Praxis. Deutsches Seminar für Städtebau und Wirtschaft im Deutschen Verband für Wohnungswesen, Städtebau und Raumordnung e. V."
+citation: "Baier, R., Heinz, H. (2000). Erreichbarkeit von Innenstädten: Leitfaden für die Praxis. Deutsches Seminar für Städtebau und Wirtschaft im Deutschen Verband für Wohnungswesen, Städtebau und Raumordnung e. V."
 tags:
   - traffic
 ---

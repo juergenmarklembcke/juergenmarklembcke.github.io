@@ -9,7 +9,7 @@ venue: DSSW Dokumentation. Deutsches Seminar für Städtebau und Wirtschaft
 catalogue_entry: ""
 buy_paper: ""
 paperurl: /files/Geschaeftsstrassenraumgestaltung Korbach.pdf
-citation: "Lembcke, J., & Santl, C. (2008). Geschäftsstraßenraumgestaltung: Erhöhung der Funktionalität, Attraktivität und Effizienz durch Reduktion. Abschlussveranstaltung zum DSSW-Projekt und zur Pilotstudie Fußgängerzone Korbach am 19.02.2008 (DSSW-Dokumentation). Deutsches Seminar für Städtebau und Wirtschaft im Deutschen Verband für Wohnungswesen, Städtebau und Raumordnung e. V."
+citation: "Lembcke, J., Santl, C. (2008). Geschäftsstraßenraumgestaltung: Erhöhung der Funktionalität, Attraktivität und Effizienz durch Reduktion. Abschlussveranstaltung zum DSSW-Projekt und zur Pilotstudie Fußgängerzone Korbach am 19.02.2008 (DSSW-Dokumentation). Deutsches Seminar für Städtebau und Wirtschaft im Deutschen Verband für Wohnungswesen, Städtebau und Raumordnung e. V."
 tags:
   - street-design
 ---

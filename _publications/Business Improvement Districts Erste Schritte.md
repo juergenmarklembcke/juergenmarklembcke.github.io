@@ -9,7 +9,7 @@ venue: DSSW Schriften. Deutsches Seminar für Städtebau und Wirtschaft
 catalogue_entry: https://d-nb.info/970427905
 buy_paper: ""
 paperurl: /files/Business Improvement Districts Erste Schritte.pdf
-citation: Franke, O., Milzkott, R., & Ludwig, K. (2004). Business Improvement Districts – ein Modell für europäische Geschäftsstraßen? Erste Schritte zur Einbindung von Eigentümern. Deutsches Seminar für Städtebau und Wirtschaft im Deutschen Verband für Wohnungswesen, Städtebau und Raumordnung e. V.
+citation: Franke, O., Milzkott, R., Ludwig, K. (2004). Business Improvement Districts – ein Modell für europäische Geschäftsstraßen? Erste Schritte zur Einbindung von Eigentümern. Deutsches Seminar für Städtebau und Wirtschaft im Deutschen Verband für Wohnungswesen, Städtebau und Raumordnung e. V.
 tags:
   - local-economics
 ---

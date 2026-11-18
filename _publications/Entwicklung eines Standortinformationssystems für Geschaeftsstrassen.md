@@ -9,7 +9,7 @@ venue: DSSW Materialien. Deutsches Seminar für Städtebau und Wirtschaft
 catalogue_entry: ""
 buy_paper: ""
 paperurl: /files/Entwicklung eines Standortinformationssystems für Geschaeftsstrassen.pdf
-citation: "Boele-Keimer, G., Fornefeld, M., & Gasper, M. (2008). Entwicklung eines Standortinformationssystems für Geschäftsstraßen: Abschlussbericht zum Pilotprojekt in Auerbach/Vogtland. Deutsches Seminar für Städtebau und Wirtschaft im Deutschen Verband für Wohnungswesen, Städtebau und Raumordnung e. V."
+citation: "Boele-Keimer, G., Fornefeld, M., Gasper, M. (2008). Entwicklung eines Standortinformationssystems für Geschäftsstraßen: Abschlussbericht zum Pilotprojekt in Auerbach/Vogtland. Deutsches Seminar für Städtebau und Wirtschaft im Deutschen Verband für Wohnungswesen, Städtebau und Raumordnung e. V."
 tags:
   - street-design
   - traffic

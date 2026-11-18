@@ -27,6 +27,7 @@
 - **Event-organized talks:** No "in:" — event and host listed in sequence (Option 1).
 - **Corporate-author publications:** Used when only Herausgeber listed.
 - **Multi-firm projects:** All Bearbeiter from each firm listed (e.g., `Frehn, M., Beilein, A., Tack, A., Funk, M., Scheele, C., & Stark, A.`).
+- Author list: No "&" before the last author; use comma instead (German convention).
 
 ## Publications Processed (in order)
 

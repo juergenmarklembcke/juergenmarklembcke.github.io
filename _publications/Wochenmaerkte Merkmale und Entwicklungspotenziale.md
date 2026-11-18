@@ -9,7 +9,7 @@ venue: DSSW Schriften. Deutsches Seminar für Städtebau und Wirtschaft
 catalogue_entry: https://d-nb.info/970793375
 buy_paper: https://www.baufachinformation.de/wochenmaerkte-merkmale-und-entwicklungspotenziale-dssw-leitfaden/230019
 paperurl: ""
-citation: "Poppitz, M., & Lembcke, J. (2003). Wochenmärkte: Merkmale und Entwicklungspotenziale. Deutsches Seminar für Städtebau und Wirtschaft im Deutschen Verband für Wohnungswesen, Städtebau und Raumordnung e. V."
+citation: "Poppitz, M., Lembcke, J. (2003). Wochenmärkte: Merkmale und Entwicklungspotenziale. Deutsches Seminar für Städtebau und Wirtschaft im Deutschen Verband für Wohnungswesen, Städtebau und Raumordnung e. V."
 tags:
   - local-economics
 ---

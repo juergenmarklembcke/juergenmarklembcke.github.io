@@ -9,7 +9,7 @@ venue: DSSW Fachtagung, Deutsches Seminar für Städtebau und Wirtschaft
 catalogue_entry: ""
 buy_paper: ""
 paperurl: /files/Wirksame Gestaltungsprinzipien fuer Geschaeftsstrassen Dresden.pdf
-citation: "Andler, L., Lembcke, J., Müller, J., Müller-Hagedorn, I., Rohde, N., Tack, A., von Schlippenbach, U., & Weber, R. (2008, November 3). Wirksame Gestaltungsprinzipien für Geschäftsstraßen: Strategien zur Attraktivitätssteigerung und Kundenorientierung [DSSW-Fachtagung]. DSSW in Kooperation mit dem Handelsverband Sachsen, Hotel Westin Bellevue, Dresden."
+citation: "Andler, L., Lembcke, J., Müller, J., Müller-Hagedorn, I., Rohde, N., Tack, A., von Schlippenbach, U., Weber, R. (2008, November 3). Wirksame Gestaltungsprinzipien für Geschäftsstraßen: Strategien zur Attraktivitätssteigerung und Kundenorientierung [DSSW-Fachtagung]. DSSW in Kooperation mit dem Handelsverband Sachsen, Hotel Westin Bellevue, Dresden."
 tags:
   - street-design
 ---
