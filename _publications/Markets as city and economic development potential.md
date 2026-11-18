@@ -13,6 +13,6 @@ citation: Lembcke, J. (2009, May 11). Markets as an urban and economic developme
 tags:
   - local-economics
 ---
-![title program proximity markets global markets](/images/picspublications/Markets as city and economic development potential.png)
+![title program proximity markets global markets](Markets as city and economic development potential.png)
 
 Presentation at the Third Congress of Municipal Markets organised by the Office of Local Markets and Fairs, Barcelona Provincial Council, with the Vilafranca del Penedès Town Council, the Directorate General for Commerce of the Government of Catalonia and the Barcelona Municipal Markets Institute (IMMB). First edition with international projection; European perspective on market operations as an urban and economic development instrument.

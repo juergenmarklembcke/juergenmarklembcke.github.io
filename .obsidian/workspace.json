@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_publications/Market trade as a focal point.md",
-                "mode": "preview",
-                "source": true
+                "file": "_publications/Markets as city and economic development potential.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Market trade as a focal point"
+              "title": "Markets as city and economic development potential"
             }
           }
         ],
@@ -217,10 +217,10 @@
   },
   "active": "5981638b4032df96",
   "lastOpenFiles": [
-    "_publications/Concierge.md",
-    "_publications/Market trade as a focal point.md",
-    "files/Markthandel als Kristallisationspunkt.pdf",
     "images/picspublications/Market trade as a focal point.jpg",
+    "_publications/Market trade as a focal point.md",
+    "_publications/Concierge.md",
+    "files/Markthandel als Kristallisationspunkt.pdf",
     "files/Concierge.pdf",
     "images/picspublications/concierge.png",
     "_drafts/Layout and Entwicklung Webpage/Picture display line example in template 2026 publications 2.md",
