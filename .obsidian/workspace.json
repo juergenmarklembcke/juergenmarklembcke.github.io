@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_publications/Markets as city and economic development potential.md",
+                "file": "_publications/Concierge.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Markets as city and economic development potential"
+              "title": "Concierge"
             }
           }
         ],
@@ -217,15 +217,17 @@
   },
   "active": "5981638b4032df96",
   "lastOpenFiles": [
+    "images/picspublications/concierge.png",
+    "_publications/Concierge.md",
+    "files/Concierge.pdf",
+    "_publications/All lights show green.md",
+    "images/picspublications/All lights show green.png",
+    "_publications/Markets as city and economic development potential.md",
     "images/picspublications/Market trade as a focal point.jpg",
     "_publications/Market trade as a focal point.md",
-    "_publications/Concierge.md",
     "files/Markthandel als Kristallisationspunkt.pdf",
-    "files/Concierge.pdf",
-    "images/picspublications/concierge.png",
     "_drafts/Layout and Entwicklung Webpage/Picture display line example in template 2026 publications 2.md",
     "_drafts/Layout and Entwicklung Webpage/Citation Works with Brave.md",
-    "_publications/All lights show green.md",
     "_publications/Business Improvement Districts Erste Schritte.md",
     "_publications/Conveniencelaeden für kleine Bahnhoefe.md",
     "_publications/Der Markthandel in ostdeutschen Innenstaedten.md",
@@ -245,13 +247,11 @@
     "_publications/Kleinraeumige Nutzungscluster.md",
     "_publications/Kommunikationskonzept für die Wohnstandortinfo.md",
     "_publications/Kostenrechnung fuer Geschaeftsstrassen.md",
-    "_publications/Looking Closer at Data.md",
     "files/Der Rythmus der Stadt.pdf",
     "files/Der Rythmus der Stadt.pf",
     "files/newrythm",
     "files/Der Rythmus der Stadt.xcf",
     "files/Der Rythmus der Stadt.png",
-    "images/picspublications/All lights show green.png",
     "images/picspublications/Market trade as a focal point,jpg",
     "images/picspublications/Markets as city and economic development potential.png",
     "files/All lights show green.pdf",

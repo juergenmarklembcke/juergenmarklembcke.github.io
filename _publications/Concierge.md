@@ -13,4 +13,4 @@ citation: "Schulz, J., König, C., Fornefeld, M., Oefinger, P. (2001). Concierge
 tags:
   - local-economics
 ---
-![Rechtsmodelle Concierge-Service](concierge.png)
+![Rechtsmodelle Concierge-Service]({{ "/images/picspublications/concierge.png" | relative_url }})
