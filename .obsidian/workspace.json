@@ -25,18 +25,15 @@
             "id": "5981638b4032df96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "_publications/Concierge.md",
-                "mode": "source",
-                "source": true
+                "file": "files/Kommunikation und Kooperation in der Stadtentwicklung.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Concierge"
+              "icon": "lucide-file-text",
+              "title": "Kommunikation und Kooperation in der Stadtentwicklung"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,10 +212,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "5981638b4032df96",
+  "active": "9dec8bb0d65ba9aa",
   "lastOpenFiles": [
-    "images/picspublications/concierge.png",
+    "files/Kommunikation und Kooperation in der Stadtentwicklung.pdf",
+    "_publications/Kommunikation und Kooperation in der Stadtentwicklung.md",
+    "_publications/Der Markthandel in ostdeutschen Innenstaedten.md",
     "_publications/Concierge.md",
+    "images/picspublications/concierge.png",
     "files/Concierge.pdf",
     "_publications/All lights show green.md",
     "images/picspublications/All lights show green.png",
@@ -230,7 +230,6 @@
     "_drafts/Layout and Entwicklung Webpage/Citation Works with Brave.md",
     "_publications/Business Improvement Districts Erste Schritte.md",
     "_publications/Conveniencelaeden für kleine Bahnhoefe.md",
-    "_publications/Der Markthandel in ostdeutschen Innenstaedten.md",
     "_publications/Der Rythmus der Stadt.md",
     "_publications/Einbindung von Immobilieneigentuemern Vortrag.md",
     "_publications/Entwicklung eines Standortinformationssystems für Geschaeftsstrassen.md",
@@ -246,7 +245,6 @@
     "_publications/Integration innerstaedtischer Einkaufszentren.md",
     "_publications/Kleinraeumige Nutzungscluster.md",
     "_publications/Kommunikationskonzept für die Wohnstandortinfo.md",
-    "_publications/Kostenrechnung fuer Geschaeftsstrassen.md",
     "files/Der Rythmus der Stadt.pdf",
     "files/Der Rythmus der Stadt.pf",
     "files/newrythm",
@@ -256,7 +254,6 @@
     "images/picspublications/Markets as city and economic development potential.png",
     "files/All lights show green.pdf",
     "files/Markets as city and economic development potential.pdf",
-    "files/Could you search again. it could have been in Barcelona 2009\n.pdf",
     "images/picspublications/Navigator für Innenstadtentwicklung Vortrag.jpg",
     "images/picspublications/Navigator für Standortgemeinschaften Schrift.jpg",
     "images/picspublications/2008-massnahmenkreis.jpg",
